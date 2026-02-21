@@ -1,2 +1,2 @@
 # captaindarkstar-sketch.github.io
-multi purpose
+Diese Seite wird künftig einen Newsletter enthalten!
