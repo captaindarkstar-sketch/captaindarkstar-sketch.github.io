@@ -1,2 +1,2 @@
-# captaindarkstar-sketch.github.io
-Diese Seite wird künftig einen Newsletter enthalten!
+# Nachfolgend sind die demnächst anstehenden Aktivitäten chronologisch aufgelistet.
+Diese Seite wird künftig den Newsletter enthalten!
