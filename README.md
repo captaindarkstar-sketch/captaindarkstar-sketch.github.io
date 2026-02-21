@@ -1,5 +1,5 @@
 # Zukünftige Aktivitäten
-Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet. Mal sehen, ob Text die Breite der Ausgabe erhöht.
+Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet.
 
 Mo. 23.02.2026 von 19:00 bis 22:00 Uhr<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/8doZiYqPY9e">🌄 Feierabendwanderung am 23.02.2026 – Wörrstadt / Neuborn</a><br>
