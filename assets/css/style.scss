@@ -20,12 +20,12 @@
 
   /* Die rechte Spalte wird nach rechts geschoben */
   section {
-    width: 750px;      /* Breite des Inhalts */
+    width: 650px;      /* Breite des Inhalts */
     float: right;
     
     /* Der entscheidende Abstand: 
        60ch entspricht ca. 60 Zeichenbreiten */
-    padding-left: 60ch; 
+    padding-left: 25ch; 
     
     /* Sicherstellen, dass die Breite inklusive Padding berechnet wird */
     box-sizing: content-box; 
