@@ -1,14 +1,14 @@
 ---
 ---
+
 @import "jekyll-theme-minimal";
 
-/* Linke Spalte (Sidebar) schmaler */
+/* Sidebar schmaler */
 aside {
-  width: 220px;        /* z. B. sehr schmal */
+  width: 180px;
 }
 
-/* Rechte Spalte (Content) breiter */
+/* Content breiter */
 section {
-  margin-left: 240px;  /* muss > aside width sein */
-  width: auto;
+  margin-left: 200px;
 }
