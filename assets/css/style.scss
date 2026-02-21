@@ -2,37 +2,41 @@
 ---
 @import "{{ site.theme }}";
 
+/* Nur für Desktop-Ansichten anpassen */
 @media screen and (min-width: 640px) {
-  
+
+  /* Wir machen den Gesamtcontainer breiter, damit rechts Platz zum Wandern ist */
   .wrapper {
-    max-width: 1100px; /* Insgesamt mehr Platz */
+    max-width: 1150px; 
     margin: 0 auto;
-    padding-left: 20px; /* Verringert den äußeren Rand links */
   }
 
+  /* Header bleibt an seiner Standardposition */
   header {
-    width: 180px;      /* Noch etwas schmaler */
+    width: 270px;
     float: left;
     position: fixed;
-    /* Schiebt den Header im Vergleich zum Standard weiter nach links */
-    margin-left: -30px; 
   }
 
+  /* Die rechte Spalte wird nach rechts geschoben */
   section {
-    /* Die Breite berechnet sich aus Wrapper-Breite minus Header */
-    width: 850px;      
+    width: 750px;      /* Breite des Inhalts */
     float: right;
-    /* Sorgt dafür, dass der Text nicht unter den Header rutscht */
-    margin-left: 210px; 
-    padding-left: 0;
+    
+    /* Der entscheidende Abstand: 
+       25ch entspricht ca. 25 Zeichenbreiten */
+    padding-left: 25ch; 
+    
+    /* Sicherstellen, dass die Breite inklusive Padding berechnet wird */
+    box-sizing: content-box; 
   }
 }
 
-/* Cleanup für die mobile Ansicht */
+/* Mobile Ansicht unberührt lassen */
 @media screen and (max-width: 639px) {
   header, section {
     float: none;
     width: 100%;
-    margin-left: 0;
+    padding-left: 0;
   }
 }
