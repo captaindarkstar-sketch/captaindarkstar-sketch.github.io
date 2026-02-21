@@ -1,2 +1,2 @@
-# Nachfolgend sind die demnächst anstehenden Aktivitäten chronologisch aufgelistet.
-Diese Seite wird künftig den Newsletter enthalten!
+# Zukünftige Aktivitäten
+Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet.
