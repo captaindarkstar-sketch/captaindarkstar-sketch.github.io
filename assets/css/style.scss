@@ -2,43 +2,37 @@
 ---
 @import "{{ site.theme }}";
 
-/* Anpassung der Kolumne für große Bildschirme (Desktop) */
 @media screen and (min-width: 640px) {
   
-  /* 1. Den äußeren Rahmen bei Bedarf verbreitern (optional) */
   .wrapper {
-    max-width: 1000px; /* Standard ist oft 860px, hier kannst du mehr Platz schaffen */
+    max-width: 1100px; /* Insgesamt mehr Platz */
     margin: 0 auto;
+    padding-left: 20px; /* Verringert den äußeren Rand links */
   }
 
-  /* 2. Linke Kolumne (Header) schmaler machen */
   header {
-    width: 200px;      /* Standard ist ca. 270px */
+    width: 180px;      /* Noch etwas schmaler */
     float: left;
-    position: fixed;   /* Behält die Fixierung beim Scrollen bei */
+    position: fixed;
+    /* Schiebt den Header im Vergleich zum Standard weiter nach links */
+    margin-left: -30px; 
   }
 
-  /* 3. Rechte Kolumne (Section) anpassen */
   section {
-    width: 700px;      /* Muss Platz für den schmaleren Header lassen */
+    /* Die Breite berechnet sich aus Wrapper-Breite minus Header */
+    width: 850px;      
     float: right;
-    padding-left: 50px; /* Abstand zum Header */
-    padding-right: 20px;
-  }
-
-  /* 4. Den Versatz korrigieren */
-  /* Da der Header 'fixed' ist, nutzt das Theme oft ein Padding auf dem Header 
-     oder eine feste Breite für die Section. Wir stellen sicher, dass die Section 
-     nicht überlappt. */
-  header {
-    padding-right: 20px;
+    /* Sorgt dafür, dass der Text nicht unter den Header rutscht */
+    margin-left: 210px; 
+    padding-left: 0;
   }
 }
 
-/* Korrektur für sehr kleine Bildschirme, damit es responsiv bleibt */
+/* Cleanup für die mobile Ansicht */
 @media screen and (max-width: 639px) {
   header, section {
     float: none;
     width: 100%;
+    margin-left: 0;
   }
 }
