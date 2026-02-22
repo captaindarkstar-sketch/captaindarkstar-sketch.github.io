@@ -1,5 +1,5 @@
 # Zukünftige Aktivitäten
-Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet.
+Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
 Heute von 10:00 bis 11:15 Uhr<br>
 <a href="https://community.spontacts.com/community/sport/appointments/NAGSGwELa7J">Eisbaden 🏊🏼‍♀️😱🏊🏽‍♂️ Trechtingshausener Strand</a><br>
