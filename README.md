@@ -1,22 +1,25 @@
 # Zukünftige Aktivitäten
 Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Morgen von 19:00 bis 22:00 Uhr, 55286 Wörrstadt, 9 Teilnehmer <br>
+Heute von 19:00 bis 22:00 Uhr, 55286 Wörrstadt, 9 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/8doZiYqPY9e">🌄 Feierabendwanderung am 23.02.2026 – Wörrstadt / Neuborn</a><br>
 
-Di. 24.02.2026 von 18:00 bis 23:00 Uhr, 65201 Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
+Morgen von 18:00 bis 23:00 Uhr, 65201 Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/fgzm5wy8js6">Kleine Feierabend Wanderung mit Glüh oder anderen Weinen am Di 24. Feb. 2o26</a><br>
 
-Di. 24.02.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 10 Teilnehmer <br>
+Morgen von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 15 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/PvAx1Tbw9kU">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
 Mi. 25.02.2026 von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 5 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KmPN53LovMZ">Comedyflash Wiesbaden 25.2.</a><br>
 
-Sa. 28.02.2026 von 18:00 bis 22:30 Uhr, Waldalgesheim, 6 Teilnehmer <br>
+Fr. 27.02.2026 von 19:00 bis 21:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (4 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/konzerte/appointments/Vq6baY2eEQZ">Benefiz-Konzert der Rhein-Nahe Big Band</a><br>
+
+Sa. 28.02.2026 von 18:00 bis 22:30 Uhr, Waldalgesheim, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/spiele/appointments/WswtaXtwNQG">Spieleabend 🎲🃏 im Gartenhaus 🔥</a><br>
 
-So. 01.03.2026 von 14:00 bis 16:00 Uhr, 55116 Mainz, 8 Teilnehmer (1 Platz frei)<br>
+So. 01.03.2026 von 14:00 bis 16:00 Uhr, 55116 Mainz, 7 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iByQQVsPogC">Ausstellung Shalom am Rhein</a><br>
 
 Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer <br>
@@ -28,7 +31,7 @@ So. 08.03.2026 von 12:30 bis 15:30 Uhr, 55234 Nack, 8 Teilnehmer (aktuell ausgeb
 Fr. 13.03.2026 von 18:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/7A9s3sHuVft">Max Mutzke & Marialy Pacheco in Konzert</a><br>
 
-Fr. 13.03.2026 von 19:00 bis 23:00 Uhr, 60326 Frankfurt am Main, 6 Teilnehmer (4 Plätze frei)<br>
+Fr. 13.03.2026 von 19:00 bis 23:00 Uhr, 60326 Frankfurt am Main, 7 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/66tya8GeBK6">🎸 "Hole Full Of Love" im "Das Bett" Frankfurt 🎶🎸</a><br>
 
 Fr. 13.03.2026 von 19:00 bis 22:00 Uhr, Bad Kreuznach, 13 Teilnehmer (aktuell ausgebucht)<br>
@@ -40,7 +43,7 @@ Fr. 13.03.2026 von 20:00 bis 23:30 Uhr, 61130 Nidderau, 5 Teilnehmer (3 Plätze 
 Sa. 14.03.2026 von 18:30 bis 23:00 Uhr, 55578 Sankt Johann, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/UQcvQX5cKHR">Teilnahme Pub-/Kneipenquiz "Zwoggelstub" in St. Johann/Rheinhessen</a><br>
 
-So. 15.03.2026 von 12:00 bis 15:45 Uhr, 55599 Gau-Bickelheim, 14 Teilnehmer (1 Platz frei)<br>
+So. 15.03.2026 von 12:00 bis 16:00 Uhr, Sankt Johann, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/1Zwt6dtWk6K">Pssst... noch vor der Eröffnung: Hiwweltour Wißberg</a><br>
 
 Di. 17.03.2026 von 18:00 bis 21:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
