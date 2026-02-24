@@ -1,5 +1,5 @@
 # Zukünftige Aktivitäten
-Im Folgenden sind alle anstehenden Aktivitäten chronologisch aufgelistet:
+Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
 Micha, Heute von 18:00 bis 23:00 Uhr, 65201 Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/fgzm5wy8js6">Kleine Feierabend Wanderung mit Glüh oder anderen Weinen am Di 24. Feb. 2o26</a><br>
