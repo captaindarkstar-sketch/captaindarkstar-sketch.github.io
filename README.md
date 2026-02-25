@@ -1,5 +1,5 @@
 <style>.warn-mobil {display: none;}@media (max-width: 600px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
-<span class="warn-mobil">⚠️ Bitte Seite im Hochformat betrachten</span><br><span style="color: red; font-weight: bold; font-size: 0.8em;">Hinweis für Handys: Die Links unten führen direkt zur Aktivität.</span><br><span style="color: red; font-weight: bold; font-size: 0.8em;">Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span><br>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
+<span class="warn-mobil">⚠️ Bitte Seite im Hochformat betrachten</span><span style="color: red; font-weight: bold; font-size: 0.8em;">Hinweis für Handys: Die Links unten führen direkt zur Aktivität.</span><br><span style="color: red; font-weight: bold; font-size: 0.8em;">Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span><br>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
 Nicole, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KmPN53LovMZ">Comedyflash Wiesbaden 25.2.</a><br>
