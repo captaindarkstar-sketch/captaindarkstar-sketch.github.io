@@ -1,4 +1,4 @@
-<style>.warn-mobil {display: none;}@media (max-width: 600px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style><br># Zukünftige Aktivitäten
+<style>.warn-mobil {display: none;}@media (max-width: 600px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität.</span><span class="warn-mobil">Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span><br>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
 Nicole, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 4 Teilnehmer (2 Plätze frei)<br>
