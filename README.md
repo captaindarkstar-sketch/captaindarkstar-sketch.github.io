@@ -1,4 +1,8 @@
 # Zukünftige Aktivitäten
+<p style="color: red; font-weight: bold;">Hinweis: Links unten führen direkt zur Aktivität.</p><br>
+<p style="color: red; font-weight: bold;">Von dort zurück zu dieser Liste mit Handy-Back-Taste,</p><br>
+<p style="color: red; font-weight: bold;">oder am PC Browser-Backtaste oben links neben der Adresszeile.</p><br>
+<p style="color: red; font-weight: bold;">Nicht Spontacts-Back neben "spontacts"-Logo nutzen.</p><br>
 Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
 Nicole, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 4 Teilnehmer (2 Plätze frei)<br>
