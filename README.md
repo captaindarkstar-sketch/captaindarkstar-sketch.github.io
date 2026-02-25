@@ -1,17 +1,14 @@
 # Zukünftige Aktivitäten
 Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Micha, Heute von 18:00 bis 23:00 Uhr, 65201 Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/fgzm5wy8js6">Kleine Feierabend Wanderung mit Glüh oder anderen Weinen am Di 24. Feb. 2o26</a><br>
-
-Stefan, Heute von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 18 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/PvAx1Tbw9kU">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
-
-Nicole, Morgen von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 4 Teilnehmer (2 Plätze frei)<br>
+Nicole, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KmPN53LovMZ">Comedyflash Wiesbaden 25.2.</a><br>
 
 Karin, Fr. 27.02.2026 von 19:00 bis 21:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/Vq6baY2eEQZ">Benefiz-Konzert der Rhein-Nahe Big Band</a><br>
+
+Kai, Sa. 28.02.2026 von 10:00 bis 12:00 Uhr, 55413 Trechtingshausen, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/sport/appointments/7aQgxYwA8T4">Eisbaden 🏊‍♀️😱 🏊‍♂️ am Trechtingshausener Strand</a><br>
 
 Kai, Sa. 28.02.2026 von 18:00 bis 22:30 Uhr, Waldalgesheim, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/spiele/appointments/WswtaXtwNQG">Spieleabend 🎲🃏 im Gartenhaus 🔥</a><br>
@@ -50,7 +47,7 @@ Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 20 Teilnehme
 <a href="https://community.spontacts.com/community/friendseek/appointments/j2UAFPMZWBP">Inselrhein 🌿 Spaziergang NABU</a><br>
 
 Evi, Ab So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 1 Teilnehmer (5 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">Fasten & Wandern - gemeinsame Auszeit in der Natur</a><br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
 
 Michelle, Mi. 25.03.2026 von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/BHFB4THPt2o">Comedyflash Wiesbaden 25.03.</a><br>
@@ -76,7 +73,7 @@ Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 14 Teilnehmer (akt
 MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 12 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
 
-Marco, Sa. 20.06.2026 von 13:30 bis 17:00 Uhr, 55595 Sponheim, 8 Teilnehmer (1 Platz frei)<br>
+Marco, Sa. 20.06.2026 von 13:30 bis 17:00 Uhr, 55595 Sponheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausfluege/appointments/WxxaqojVghC">Wo lebte Hildegard wirklich? – Exkursion nach Sponheim und zur Klosterruine Disibodenberg</a><br>
 
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
