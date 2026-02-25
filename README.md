@@ -1,5 +1,5 @@
 # Zukünftige Aktivitäten
-<p style="color: red; font-weight: bold; font-size: 0.9em;">Hinweis: Links unten führen direkt zur Aktivität. Von dort zurück zu dieser Liste mit Handy-Back-Taste,</p><p style="color: red; font-weight: bold; font-size: 0.9em;">oder am PC Browser-Backtaste oben links neben der Adresszeile. Nicht Spontacts-Back neben "spontacts"-Logo nutzen.</p>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
+<span style="color: red; font-weight: bold; font-size: 0.9em;">Hinweis: Links unten führen direkt zur Aktivität. Von dort zurück zu dieser Liste mit Handy-Back-Taste,</span><br><span style="color: red; font-weight: bold; font-size: 0.9em;">oder am PC Browser-Backtaste oben links neben der Adresszeile. Nicht Spontacts-Back neben "spontacts"-Logo nutzen.</span><br>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
 Nicole, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KmPN53LovMZ">Comedyflash Wiesbaden 25.2.</a><br>
