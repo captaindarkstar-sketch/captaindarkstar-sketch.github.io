@@ -1,19 +1,16 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Nicole, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 4 Teilnehmer (2 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/KmPN53LovMZ">Comedyflash Wiesbaden 25.2.</a><br>
-
-Karin, Fr. 27.02.2026 von 19:00 bis 21:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (4 Plätze frei)<br>
+Karin, Heute von 19:00 bis 21:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/Vq6baY2eEQZ">Benefiz-Konzert der Rhein-Nahe Big Band</a><br>
 
-Kai, Sa. 28.02.2026 von 10:00 bis 12:00 Uhr, 55413 Trechtingshausen, 1 Teilnehmer <br>
+Kai, Morgen von 10:00 bis 12:00 Uhr, 55413 Trechtingshausen, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/7aQgxYwA8T4">Eisbaden 🏊‍♀️😱 🏊‍♂️ am Trechtingshausener Strand</a><br>
 
-Kai, Sa. 28.02.2026 von 18:00 bis 22:30 Uhr, Waldalgesheim, 7 Teilnehmer <br>
+Kai, Morgen von 18:00 bis 22:30 Uhr, Waldalgesheim, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/spiele/appointments/WswtaXtwNQG">Spieleabend 🎲🃏 im Gartenhaus 🔥</a><br>
 
-Marco, So. 01.03.2026 von 14:00 bis 16:00 Uhr, 55116 Mainz, 7 Teilnehmer (2 Plätze frei)<br>
+Marco, So. 01.03.2026 von 14:00 bis 16:00 Uhr, 55116 Mainz, 6 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iByQQVsPogC">Ausstellung Shalom am Rhein</a><br>
 
 Kai, Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer <br>
@@ -22,10 +19,13 @@ Kai, Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer
 Anja, So. 08.03.2026 von 12:30 bis 15:30 Uhr, 55234 Nack, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/NmKRyg5EqBu">Letterbox Teufelsrutsch, Nack</a><br>
 
+Micha, Di. 10.03.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 11 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/eGRR2qAoEAQ">Kleine Feierabend Wanderung mit Weinstand-Ende am Di.1o. März. 2o26</a><br>
+
 Maria, Fr. 13.03.2026 von 18:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/7A9s3sHuVft">Max Mutzke & Marialy Pacheco in Konzert</a><br>
 
-Tanja, Fr. 13.03.2026 von 19:00 bis 23:00 Uhr, 60326 Frankfurt am Main, 7 Teilnehmer (3 Plätze frei)<br>
+Tanja, Fr. 13.03.2026 von 19:00 bis 23:00 Uhr, 60326 Frankfurt am Main, 8 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/66tya8GeBK6">🎸 "Hole Full Of Love" im "Das Bett" Frankfurt 🎶🎸</a><br>
 
 Anja, Fr. 13.03.2026 von 19:00 bis 22:00 Uhr, Bad Kreuznach, 13 Teilnehmer (aktuell ausgebucht)<br>
