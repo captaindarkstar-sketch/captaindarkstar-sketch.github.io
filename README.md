@@ -16,7 +16,7 @@ Marco, So. 01.03.2026 von 14:00 bis 16:00 Uhr, 55116 Mainz, 6 Teilnehmer (3 Plä
 Kai, Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/naturfreunde/appointments/5yVjzrzYYvi">Arbeitsgruppeneinsatz 🌱🥾🐛🧤🌳Naturgarten/Wildkräuter</a><br>
 
-Anja, So. 08.03.2026 von 12:30 bis 15:30 Uhr, 55234 Nack, 8 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 08.03.2026 von 12:30 bis 15:30 Uhr, 55234 Nack, 7 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/NmKRyg5EqBu">Letterbox Teufelsrutsch, Nack</a><br>
 
 Micha, Di. 10.03.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 11 Teilnehmer (aktuell ausgebucht)<br>
