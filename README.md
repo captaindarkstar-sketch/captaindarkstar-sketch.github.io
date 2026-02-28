@@ -1,20 +1,17 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Karin, Heute von 19:00 bis 21:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (4 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/konzerte/appointments/Vq6baY2eEQZ">Benefiz-Konzert der Rhein-Nahe Big Band</a><br>
-
-Kai, Morgen von 10:00 bis 12:00 Uhr, 55413 Trechtingshausen, 2 Teilnehmer <br>
+Kai, Heute von 10:00 bis 12:00 Uhr, 55413 Trechtingshausen, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/7aQgxYwA8T4">Eisbaden 🏊‍♀️😱 🏊‍♂️ am Trechtingshausener Strand</a><br>
 
-Kai, Morgen von 18:00 bis 22:30 Uhr, Waldalgesheim, 7 Teilnehmer <br>
+Kai, Heute von 18:00 bis 22:30 Uhr, Waldalgesheim, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/spiele/appointments/WswtaXtwNQG">Spieleabend 🎲🃏 im Gartenhaus 🔥</a><br>
-
-Marco, So. 01.03.2026 von 14:00 bis 16:00 Uhr, 55116 Mainz, 6 Teilnehmer (3 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/iByQQVsPogC">Ausstellung Shalom am Rhein</a><br>
 
 Kai, Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/naturfreunde/appointments/5yVjzrzYYvi">Arbeitsgruppeneinsatz 🌱🥾🐛🧤🌳Naturgarten/Wildkräuter</a><br>
+
+Kim, Sa. 07.03.2026 von 19:00 bis 22:00 Uhr, 65195 Wiesbaden, 4 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/RCJs4M4Kw9P">Tino Bomelino Comedy 7.3. Wiesbaden</a><br>
 
 Anja, So. 08.03.2026 von 12:30 bis 15:30 Uhr, 55234 Nack, 7 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/NmKRyg5EqBu">Letterbox Teufelsrutsch, Nack</a><br>
