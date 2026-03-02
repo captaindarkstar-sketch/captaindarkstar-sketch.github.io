@@ -64,9 +64,6 @@ Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 14 Teilnehmer (akt
 MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 12 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
 
-Marco, Sa. 20.06.2026 von 13:30 bis 17:00 Uhr, 55595 Sponheim, 8 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/ausfluege/appointments/WxxaqojVghC">Wo lebte Hildegard wirklich? – Exkursion nach Sponheim und zur Klosterruine Disibodenberg</a><br>
-
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
 
