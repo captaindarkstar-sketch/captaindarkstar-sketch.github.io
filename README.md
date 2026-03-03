@@ -1,7 +1,16 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Kai, Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer <br>
+Kai, Heute von 20:00 bis 21:00 Uhr, 55413 Trechtingshausen, 2 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/sport/appointments/RBo7kZfWVcQ">🌚 Vollmond 🌚  Eisbaden 😱  Trechtingshausener Strand</a><br>
+
+Stefan, Do. 05.03.2026 von 19:00 bis 21:30 Uhr, 63263 Neu-Isenburg, 4 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/bHYjtgtWALq">Feierabendwanderung am 05.03.26: Runde um das Luftbrückendenkmal in Zeppelinheim</a><br>
+
+Stefan, Fr. 06.03.2026 von 15:30 bis 18:30 Uhr, 64546 Mörfelden-Walldorf, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/TBHWfHj9xW6">Feierabendwanderung "Naturschutzgebiet Mönchbruch – Mönchbruchallee Runde"</a><br>
+
+Kai, Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/naturfreunde/appointments/5yVjzrzYYvi">Arbeitsgruppeneinsatz 🌱🥾🐛🧤🌳Naturgarten/Wildkräuter</a><br>
 
 Kim, Sa. 07.03.2026 von 19:00 bis 22:00 Uhr, 65195 Wiesbaden, 4 Teilnehmer (aktuell ausgebucht)<br>
@@ -33,6 +42,9 @@ Anja, So. 15.03.2026 von 12:00 bis 16:00 Uhr, Sankt Johann, 15 Teilnehmer (aktue
 
 Anja, Di. 17.03.2026 von 18:00 bis 21:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/aJH8izmueuK">Open Stage für (Zauber)Künstler, Ingelheim</a><br>
+
+Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/Mf75X3FqoG8">Sonnenaufgangswanderung 🌅 mit Outdoor-Frühstück 🥨🥪☕</a><br>
 
 Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 20 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j2UAFPMZWBP">Inselrhein 🌿 Spaziergang NABU</a><br>
