@@ -1,17 +1,20 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Kai, Heute von 20:00 bis 21:00 Uhr, 55413 Trechtingshausen, 2 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/sport/appointments/RBo7kZfWVcQ">🌚 Vollmond 🌚  Eisbaden 😱  Trechtingshausener Strand</a><br>
-
-Stefan, Do. 05.03.2026 von 19:00 bis 21:30 Uhr, 63263 Neu-Isenburg, 4 Teilnehmer <br>
+Stefan, Morgen von 19:00 bis 21:30 Uhr, 63263 Neu-Isenburg, 5 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bHYjtgtWALq">Feierabendwanderung am 05.03.26: Runde um das Luftbrückendenkmal in Zeppelinheim</a><br>
 
-Stefan, Fr. 06.03.2026 von 15:30 bis 18:30 Uhr, 64546 Mörfelden-Walldorf, 1 Teilnehmer <br>
+ThomasK, Fr. 06.03.2026 von 14:00 bis 17:00 Uhr, Bad Kreuznach, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/radsport/appointments/YDjF4kdzonQ">Radtour Kleinbahnrundweg</a><br>
+
+Stefan, Fr. 06.03.2026 von 15:30 bis 18:30 Uhr, 64546 Mörfelden-Walldorf, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/TBHWfHj9xW6">Feierabendwanderung "Naturschutzgebiet Mönchbruch – Mönchbruchallee Runde"</a><br>
 
 Kai, Sa. 07.03.2026 von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/naturfreunde/appointments/5yVjzrzYYvi">Arbeitsgruppeneinsatz 🌱🥾🐛🧤🌳Naturgarten/Wildkräuter</a><br>
+
+Karin, Sa. 07.03.2026 von 12:30 bis 15:30 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer (5 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/C5zSB3LQNcf">Mit dem E-Bike bzw. Rad von Bingen auf die Lauschhütte</a><br>
 
 Kim, Sa. 07.03.2026 von 19:00 bis 22:00 Uhr, 65195 Wiesbaden, 4 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RCJs4M4Kw9P">Tino Bomelino Comedy 7.3. Wiesbaden</a><br>
@@ -31,7 +34,7 @@ Tanja, Fr. 13.03.2026 von 19:00 bis 23:00 Uhr, 60326 Frankfurt am Main, 8 Teilne
 Anja, Fr. 13.03.2026 von 19:00 bis 22:00 Uhr, Bad Kreuznach, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/MLtV6CcaBKq">Jour fixe Rheinhessen</a><br>
 
-Angela, Fr. 13.03.2026 von 20:00 bis 23:30 Uhr, 61130 Nidderau, 4 Teilnehmer (4 Plätze frei)<br>
+Angela, Fr. 13.03.2026 von 20:00 bis 23:30 Uhr, 61130 Nidderau, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/abrWtzbmdwE">Cosmic Fox live - Coverband aus Wiesbaden</a><br>
 
 gitarero, Sa. 14.03.2026 von 18:30 bis 23:00 Uhr, 55578 Sankt Johann, 6 Teilnehmer (aktuell ausgebucht)<br>
@@ -43,7 +46,7 @@ Anja, So. 15.03.2026 von 12:00 bis 16:00 Uhr, Sankt Johann, 15 Teilnehmer (aktue
 Anja, Di. 17.03.2026 von 18:00 bis 21:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/aJH8izmueuK">Open Stage für (Zauber)Künstler, Ingelheim</a><br>
 
-Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 1 Teilnehmer <br>
+Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Mf75X3FqoG8">Sonnenaufgangswanderung 🌅 mit Outdoor-Frühstück 🥨🥪☕</a><br>
 
 Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 20 Teilnehmer <br>
@@ -69,6 +72,9 @@ Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teiln
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
+
+Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
