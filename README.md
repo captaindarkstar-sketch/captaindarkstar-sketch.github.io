@@ -1,31 +1,25 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-ThomasK, Heute von 14:00 bis 17:00 Uhr, Bad Kreuznach, 2 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/radsport/appointments/YDjF4kdzonQ">Radtour Kleinbahnrundweg</a><br>
-
-Stefan, Heute von 15:30 bis 18:30 Uhr, 64546 Mörfelden-Walldorf, 4 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/TBHWfHj9xW6">Feierabendwanderung "Naturschutzgebiet Mönchbruch – Mönchbruchallee Runde"</a><br>
-
-Kai, Morgen von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 2 Teilnehmer <br>
+Kai, Heute von 10:45 bis 15:00 Uhr, 55411 Bingen am Rhein, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/naturfreunde/appointments/5yVjzrzYYvi">Arbeitsgruppeneinsatz 🌱🥾🐛🧤🌳Naturgarten/Wildkräuter</a><br>
 
-Karin, Morgen von 12:30 bis 15:30 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer (5 Plätze frei)<br>
+Karin, Heute von 12:30 bis 15:30 Uhr, 55411 Bingen am Rhein, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/C5zSB3LQNcf">Mit dem E-Bike bzw. Rad von Bingen auf die Lauschhütte</a><br>
 
-Kim, Morgen von 19:00 bis 22:00 Uhr, 65195 Wiesbaden, 4 Teilnehmer (aktuell ausgebucht)<br>
+Kim, Heute von 19:00 bis 22:00 Uhr, 65195 Wiesbaden, 4 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RCJs4M4Kw9P">Tino Bomelino Comedy 7.3. Wiesbaden</a><br>
 
-Anja, So. 08.03.2026 von 12:30 bis 15:30 Uhr, 55234 Nack, 7 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 12:30 bis 15:30 Uhr, 55234 Nack, 5 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/NmKRyg5EqBu">Letterbox Teufelsrutsch, Nack</a><br>
 
-Stefan, Mo. 09.03.2026 von 19:00 bis 21:00 Uhr, 55286 Wörrstadt, 4 Teilnehmer <br>
+Stefan, Mo. 09.03.2026 von 19:00 bis 21:00 Uhr, 55286 Wörrstadt, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/LU9MQ5hMeiS">Feierabendwanderung "Weinbergstürme in Ensheim und Spiesheim"</a><br>
 
-Micha, Di. 10.03.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 11 Teilnehmer (aktuell ausgebucht)<br>
+Micha, Di. 10.03.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 12 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/eGRR2qAoEAQ">Kleine Feierabend Wanderung mit Weinstand-Ende am Di.1o. März. 2o26</a><br>
 
-Stefan, Di. 10.03.2026 von 19:00 bis 21:30 Uhr, 63150 Heusenstamm, 9 Teilnehmer <br>
+Stefan, Di. 10.03.2026 von 19:00 bis 21:30 Uhr, 63150 Heusenstamm, 10 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Ug3py1SWHhh">🥾 Feierabendwanderung  „Schloss Heusenstamm – Hofgut Patershausen Runde“</a><br>
 
 Maria, Fr. 13.03.2026 von 18:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 5 Teilnehmer (aktuell ausgebucht)<br>
@@ -40,7 +34,7 @@ Anja, Fr. 13.03.2026 von 19:00 bis 22:00 Uhr, Bad Kreuznach, 12 Teilnehmer (aktu
 Angela, Fr. 13.03.2026 von 20:00 bis 23:30 Uhr, 61130 Nidderau, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/abrWtzbmdwE">Cosmic Fox live - Coverband aus Wiesbaden</a><br>
 
-gitarero, Sa. 14.03.2026 von 18:30 bis 23:00 Uhr, 55578 Sankt Johann, 4 Teilnehmer (1 Platz frei)<br>
+gitarero, Sa. 14.03.2026 von 18:30 bis 23:00 Uhr, 55578 Sankt Johann, 3 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/UQcvQX5cKHR">Teilnahme Pub-/Kneipenquiz "Zwoggelstub" in St. Johann/Rheinhessen</a><br>
 
 Anja, So. 15.03.2026 von 12:00 bis 16:00 Uhr, Sankt Johann, 15 Teilnehmer (aktuell ausgebucht)<br>
@@ -49,13 +43,13 @@ Anja, So. 15.03.2026 von 12:00 bis 16:00 Uhr, Sankt Johann, 15 Teilnehmer (aktue
 Anja, Di. 17.03.2026 von 18:00 bis 21:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/aJH8izmueuK">Open Stage für (Zauber)Künstler, Ingelheim</a><br>
 
-Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 5 Teilnehmer <br>
+Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Mf75X3FqoG8">Sonnenaufgangswanderung 🌅 mit Outdoor-Frühstück 🥨🥪☕</a><br>
 
 Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 20 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j2UAFPMZWBP">Inselrhein 🌿 Spaziergang NABU</a><br>
 
-Evi, Ab So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 1 Teilnehmer (5 Plätze frei)<br>
+Evi, Ab So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
 
 Michelle, Mi. 25.03.2026 von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 3 Teilnehmer <br>
