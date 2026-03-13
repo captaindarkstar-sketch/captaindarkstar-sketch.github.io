@@ -1,25 +1,13 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Maria, Heute von 18:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 5 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/konzerte/appointments/7A9s3sHuVft">Max Mutzke & Marialy Pacheco in Konzert</a><br>
-
-Tanja, Heute von 19:00 bis 23:00 Uhr, 60326 Frankfurt am Main, 7 Teilnehmer (2 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/66tya8GeBK6">🎸 "Hole Full Of Love" im "Das Bett" Frankfurt 🎶🎸</a><br>
-
-Anja, Heute von 19:00 bis 22:00 Uhr, Bad Kreuznach, 11 Teilnehmer (1 Platz frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/MLtV6CcaBKq">Jour fixe Rheinhessen</a><br>
-
-Angela, Heute von 20:00 bis 23:30 Uhr, 61130 Nidderau,  <br>
-<a href="https://community.spontacts.com/community/tanzen/appointments/abrWtzbmdwE">Cosmic Fox live - Coverband aus Wiesbaden</a><br>
-
-MichaeL, Morgen von 11:00 bis 18:00 Uhr, 55578 Sankt Johann, 5 Teilnehmer (3 Plätze frei)<br>
+MichaeL, Heute von 11:00 bis 18:00 Uhr, 55578 Sankt Johann, 5 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/YdvHc4bwLQk">Wanderung um das Horn von Zotzenheim…🌞</a><br>
 
-Anja, So. 15.03.2026 von 12:00 bis 16:00 Uhr, Sankt Johann, 16 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 12:00 bis 16:00 Uhr, Sankt Johann, 14 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/1Zwt6dtWk6K">Pssst... noch vor der Eröffnung: Hiwweltour Wißberg</a><br>
 
-Stefan, Mo. 16.03.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 8 Teilnehmer <br>
+Stefan, Mo. 16.03.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 10 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/LTKPJQUZi9J">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
 Stefan, Di. 17.03.2026 von 18:00 bis 21:00 Uhr, 55578 Gau-Weinheim, 4 Teilnehmer <br>
@@ -61,7 +49,7 @@ Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teiln
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
 
-Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 14 Teilnehmer (aktuell ausgebucht)<br>
