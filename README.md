@@ -1,22 +1,19 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Heute von 12:00 bis 16:00 Uhr, Sankt Johann, 13 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/1Zwt6dtWk6K">Pssst... noch vor der Eröffnung: Hiwweltour Wißberg</a><br>
-
-Stefan, Morgen von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 9 Teilnehmer <br>
+Stefan, Heute von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/LTKPJQUZi9J">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
-Stefan, Di. 17.03.2026 von 18:00 bis 21:00 Uhr, 55578 Gau-Weinheim, 5 Teilnehmer <br>
+Stefan, Morgen von 18:00 bis 21:00 Uhr, 55578 Gau-Weinheim, 5 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/MhxSNXuaB9a">Feierabendwanderung "Wolfsheimer Knotengarten – Blick auf den Wißberg"</a><br>
 
-Anja, Di. 17.03.2026 von 18:00 bis 21:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 18:00 bis 21:00 Uhr, Ingelheim am Rhein, 7 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/aJH8izmueuK">Open Stage für (Zauber)Künstler, Ingelheim</a><br>
 
-Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 8 Teilnehmer <br>
+Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 9 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Mf75X3FqoG8">Sonnenaufgangswanderung 🌅 mit Outdoor-Frühstück 🥨🥪☕</a><br>
 
-Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 21 Teilnehmer <br>
+Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 20 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j2UAFPMZWBP">Inselrhein 🌿 Spaziergang NABU</a><br>
 
 Evi, Ab So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer (4 Plätze frei)<br>
@@ -37,7 +34,7 @@ Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 18 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
 
-MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 4 Teilnehmer (6 Plätze frei)<br>
+MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RbbokSod1fq">Osterwanderung zum Adlerbogen (Donnersberg)</a><br>
 
 Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teilnehmer (aktuell ausgebucht)<br>
@@ -45,6 +42,9 @@ Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teiln
 
 Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/Qm6tXuDS6nJ">Konzert Saalkirche Ingelheim: Saiten und Pfeifen</a><br>
+
+Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 3 Teilnehmer (9 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
