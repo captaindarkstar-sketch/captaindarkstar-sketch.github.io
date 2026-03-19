@@ -1,13 +1,13 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 8 Teilnehmer <br>
+Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Mf75X3FqoG8">Sonnenaufgangswanderung 🌅 mit Outdoor-Frühstück 🥨🥪☕</a><br>
 
 Kai, Sa. 21.03.2026 von 10:00 bis 11:30 Uhr, 55413 Trechtingshausen, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Wka9XX3oJso">Eisbaden 🏊🏼‍♀️😱🏊🏽‍♂️ Trechtingshausener Strand</a><br>
 
-Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 18 Teilnehmer <br>
+Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 17 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j2UAFPMZWBP">Inselrhein 🌿 Spaziergang NABU</a><br>
 
 Evi, Ab So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer (4 Plätze frei)<br>
@@ -37,7 +37,7 @@ Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teiln
 Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/Qm6tXuDS6nJ">Konzert Saalkirche Ingelheim: Saiten und Pfeifen</a><br>
 
-Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 13 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
@@ -52,10 +52,10 @@ Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 14 Teilnehmer (akt
 MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
 
-Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 2 Teilnehmer <br>
+Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
 
-Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 7 Teilnehmer (2 Plätze frei)<br>
+Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/DAZcbZ3T6BZ">Nacht der Kunst Ingelheim</a><br>
 
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
