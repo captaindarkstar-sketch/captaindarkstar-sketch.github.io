@@ -1,10 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Kai, Sa. 21.03.2026 von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 7 Teilnehmer <br>
+Kai, Morgen von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Mf75X3FqoG8">Sonnenaufgangswanderung 🌅 mit Outdoor-Frühstück 🥨🥪☕</a><br>
 
-Kai, Sa. 21.03.2026 von 10:00 bis 11:30 Uhr, 55413 Trechtingshausen, 3 Teilnehmer <br>
+Kai, Morgen von 10:00 bis 11:30 Uhr, 55413 Trechtingshausen, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Wka9XX3oJso">Eisbaden 🏊🏼‍♀️😱🏊🏽‍♂️ Trechtingshausener Strand</a><br>
 
 Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 17 Teilnehmer <br>
@@ -37,7 +37,7 @@ Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teiln
 Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/Qm6tXuDS6nJ">Konzert Saalkirche Ingelheim: Saiten und Pfeifen</a><br>
 
-Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 14 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
@@ -46,7 +46,7 @@ Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehm
 Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
 
-Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 14 Teilnehmer (aktuell ausgebucht)<br>
+Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
 
 MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (aktuell ausgebucht)<br>
