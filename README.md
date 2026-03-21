@@ -1,17 +1,17 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Kai, Morgen von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 6 Teilnehmer <br>
+Kai, Heute von 05:00 bis 09:00 Uhr, 55413 Weiler bei Bingen, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Mf75X3FqoG8">Sonnenaufgangswanderung 🌅 mit Outdoor-Frühstück 🥨🥪☕</a><br>
 
-Kai, Morgen von 10:00 bis 11:30 Uhr, 55413 Trechtingshausen, 3 Teilnehmer <br>
+Kai, Heute von 10:00 bis 11:30 Uhr, 55413 Trechtingshausen, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Wka9XX3oJso">Eisbaden 🏊🏼‍♀️😱🏊🏽‍♂️ Trechtingshausener Strand</a><br>
 
-Kai, So. 22.03.2026 von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 17 Teilnehmer <br>
+Kai, Morgen von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 15 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j2UAFPMZWBP">Inselrhein 🌿 Spaziergang NABU</a><br>
 
-Evi, Ab So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer (4 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
+Evi, Ab So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 1 Teilnehmer (5 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">abgesagt:Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
 
 Micha, Di. 24.03.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/VYCrsCKry5U">Kleine Feierabend Wanderung mit Weinstand-Ende am Di.24. März. 2o26</a><br>
