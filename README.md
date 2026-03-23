@@ -1,13 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Kai, Heute von 10:45 bis 16:00 Uhr, 55411 Bingen am Rhein, 12 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/j2UAFPMZWBP">Inselrhein 🌿 Spaziergang NABU</a><br>
-
 Evi, Von So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">abgesagt:Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
 
-Micha, Di. 24.03.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
+Micha, Morgen von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/VYCrsCKry5U">Kleine Feierabend Wanderung mit Weinstand-Ende am Di.24. März. 2o26</a><br>
 
 Michelle, Mi. 25.03.2026 von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 3 Teilnehmer <br>
@@ -19,7 +16,7 @@ Andre, Fr. 27.03.2026 von 17:00 bis 22:00 Uhr, 55411 Bingen am Rhein, 10 Teilneh
 Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/Uour96YCbUS">Handyweitwurf an der Kostheimer Mainaue</a><br>
 
-Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 17 Teilnehmer (aktuell ausgebucht)<br>
+Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
 
 MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 10 Teilnehmer (aktuell ausgebucht)<br>
