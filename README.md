@@ -4,13 +4,10 @@
 Evi, Von So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">abgesagt:Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
 
-Micha, Morgen von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/VYCrsCKry5U">Kleine Feierabend Wanderung mit Weinstand-Ende am Di.24. März. 2o26</a><br>
-
-Michelle, Mi. 25.03.2026 von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 3 Teilnehmer <br>
+Michelle, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/BHFB4THPt2o">Comedyflash Wiesbaden 25.03.</a><br>
 
-Andre, Fr. 27.03.2026 von 17:00 bis 22:00 Uhr, 55411 Bingen am Rhein, 10 Teilnehmer (aktuell ausgebucht)<br>
+Andre, Fr. 27.03.2026 von 17:00 bis 22:00 Uhr, 55411 Bingen am Rhein, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/S5xoCpzJFDT">Wein-Pirsch Bingen</a><br>
 
 Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
@@ -22,13 +19,16 @@ Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 16 Teilnehmer (akt
 MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RbbokSod1fq">Osterwanderung zum Adlerbogen (Donnersberg)</a><br>
 
+Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 4 Teilnehmer (8 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
+
 Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/ZxaHjJAGNXa">Comedy: Matilde Keizer „Lasagne im Bett“ Neues Theater Höchst</a><br>
 
 Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/Qm6tXuDS6nJ">Konzert Saalkirche Ingelheim: Saiten und Pfeifen</a><br>
 
-Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 13 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
