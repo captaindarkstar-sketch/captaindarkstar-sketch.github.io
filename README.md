@@ -4,23 +4,26 @@
 Evi, Von So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">abgesagt:Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
 
-Michelle, Heute von 20:00 bis 22:00 Uhr, 65185 Wiesbaden, 3 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/BHFB4THPt2o">Comedyflash Wiesbaden 25.03.</a><br>
-
-Andre, Fr. 27.03.2026 von 17:00 bis 22:00 Uhr, 55411 Bingen am Rhein, 9 Teilnehmer (aktuell ausgebucht)<br>
+Andre, Morgen von 17:00 bis 22:00 Uhr, 55411 Bingen am Rhein, 9 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/S5xoCpzJFDT">Wein-Pirsch Bingen</a><br>
+
+Chris, Fr. 03.04.2026 von 10:30 bis 14:30 Uhr, 55756 Herrstein, 3 Teilnehmer (5 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/2ME4oxUBMD7">Wanderung "Traumschleife Mittelalterpfad"</a><br>
 
 Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/Uour96YCbUS">Handyweitwurf an der Kostheimer Mainaue</a><br>
 
-Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 16 Teilnehmer (aktuell ausgebucht)<br>
+Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
 
 MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RbbokSod1fq">Osterwanderung zum Adlerbogen (Donnersberg)</a><br>
 
-Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 4 Teilnehmer (8 Plätze frei)<br>
+Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 10 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
+
+Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 1 Teilnehmer (7 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JHFpqy3TT3U">Traumschleife "Elfenlay"</a><br>
 
 Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/ZxaHjJAGNXa">Comedy: Matilde Keizer „Lasagne im Bett“ Neues Theater Höchst</a><br>
