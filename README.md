@@ -1,11 +1,14 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Evi, Von So. 22.03.2026 15:30 bis Sa. 28.03.2026 12:00 Uhr, Eppstein, 2 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/3CFosri2bz4">abgesagt:Campen & Wandern - gemeinsame Auszeit in der Natur</a><br>
-
 Chris, Fr. 03.04.2026 von 10:30 bis 14:30 Uhr, 55756 Herrstein, 4 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/2ME4oxUBMD7">Wanderung "Traumschleife Mittelalterpfad"</a><br>
+
+Anja, Fr. 03.04.2026 von 12:30 bis 16:00 Uhr, 55595 Wallhausen, 6 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/SxMxD4nTTd4">VitalTour Stein, Wein und Farbe</a><br>
+
+Thomas, Sa. 04.04.2026 von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer (7 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/74ydixvvgCa">Rundwanderung Falkensteiner Schlucht und Burgruine .... (Pfalz)</a><br>
 
 Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/Uour96YCbUS">Handyweitwurf an der Kostheimer Mainaue</a><br>
@@ -19,7 +22,7 @@ MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 10 Teilnehmer
 Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 11 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
 
-Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 1 Teilnehmer (7 Plätze frei)<br>
+Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 2 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JHFpqy3TT3U">Traumschleife "Elfenlay"</a><br>
 
 Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 11 Teilnehmer (aktuell ausgebucht)<br>
@@ -55,7 +58,7 @@ Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 9 Teiln
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 6 Teilnehmer (2 Plätze frei)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
 Ralf, Sa. 29.08.2026 von 13:30 bis 23:30 Uhr, 67583 Guntersblum, 19 Teilnehmer (aktuell ausgebucht)<br>
