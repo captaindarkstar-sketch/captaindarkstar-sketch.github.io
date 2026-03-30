@@ -7,7 +7,7 @@ Chris, Fr. 03.04.2026 von 10:30 bis 14:30 Uhr, 55756 Herrstein, 4 Teilnehmer (4 
 Anja, Fr. 03.04.2026 von 12:30 bis 16:00 Uhr, 55595 Wallhausen, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/SxMxD4nTTd4">VitalTour Stein, Wein und Farbe</a><br>
 
-Thomas, Sa. 04.04.2026 von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer (7 Plätze frei)<br>
+Thomas, Sa. 04.04.2026 von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/74ydixvvgCa">Rundwanderung Falkensteiner Schlucht und Burgruine .... (Pfalz)</a><br>
 
 Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
@@ -16,10 +16,10 @@ Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
 
-MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 10 Teilnehmer (aktuell ausgebucht)<br>
+MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RbbokSod1fq">Osterwanderung zum Adlerbogen (Donnersberg)</a><br>
 
-Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 11 Teilnehmer (1 Platz frei)<br>
+Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
 
 Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 2 Teilnehmer (6 Plätze frei)<br>
@@ -39,6 +39,9 @@ Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehm
 
 Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
+
+Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 11 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/dxBAvVkdz1Y">Wanderspaziergang mit Festbesuch 'Scheu time',  Alzey</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
