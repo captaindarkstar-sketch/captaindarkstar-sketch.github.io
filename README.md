@@ -1,6 +1,9 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
+Stefan, Heute von 18:30 bis 21:30 Uhr, 55239 Gau-Odernheim, 5 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/KbQTqCV56K9">🍇 Feierabendwanderung am Petersberg</a><br>
+
 Chris, Fr. 03.04.2026 von 10:30 bis 14:30 Uhr, 55756 Herrstein, 4 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/2ME4oxUBMD7">Wanderung "Traumschleife Mittelalterpfad"</a><br>
 
@@ -13,7 +16,7 @@ Thomas, Sa. 04.04.2026 von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer 
 Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/Uour96YCbUS">Handyweitwurf an der Kostheimer Mainaue</a><br>
 
-Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 14 Teilnehmer (aktuell ausgebucht)<br>
+Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
 
 MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer (aktuell ausgebucht)<br>
@@ -40,7 +43,10 @@ Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehm
 Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
 
-Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 11 Teilnehmer (aktuell ausgebucht)<br>
+Kai, So. 10.05.2026 von 06:45 bis 09:45 Uhr, 55435 Gau-Algesheim, 4 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/naturfreunde/appointments/LkCY331dRp1">NABU- 🐦🦅🦜Vogelstimmenwanderung Westerberg  🦅🦜🐦</a><br>
+
+Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/dxBAvVkdz1Y">Wanderspaziergang mit Festbesuch 'Scheu time',  Alzey</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 15 Teilnehmer (aktuell ausgebucht)<br>
