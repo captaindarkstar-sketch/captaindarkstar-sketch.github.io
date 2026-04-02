@@ -1,10 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Chris, Fr. 03.04.2026 von 10:30 bis 14:30 Uhr, 55756 Herrstein, 4 Teilnehmer (4 Plätze frei)<br>
+Chris, Morgen von 10:30 bis 14:30 Uhr, 55756 Herrstein, 4 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/2ME4oxUBMD7">Wanderung "Traumschleife Mittelalterpfad"</a><br>
 
-Anja, Fr. 03.04.2026 von 12:30 bis 16:00 Uhr, 55595 Wallhausen, 7 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 12:30 bis 16:00 Uhr, 55595 Wallhausen, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/SxMxD4nTTd4">VitalTour Stein, Wein und Farbe</a><br>
 
 Thomas, Sa. 04.04.2026 von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer <br>
@@ -12,6 +12,9 @@ Thomas, Sa. 04.04.2026 von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer 
 
 Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/Uour96YCbUS">Handyweitwurf an der Kostheimer Mainaue</a><br>
+
+Tanja, Sa. 04.04.2026 von 11:45 bis 16:00 Uhr, 60311 Frankfurt am Main, 7 Teilnehmer (2 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/K3if63mZZPM">Kleinmarkthalle Frankfurt 4. April 🍷🙂</a><br>
 
 Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
@@ -22,10 +25,10 @@ MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer 
 Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
 
-Stefan, Do. 09.04.2026 von 18:00 bis 21:00 Uhr, 55270 Zornheim, 10 Teilnehmer <br>
+Stefan, Do. 09.04.2026 von 18:00 bis 21:00 Uhr, 55270 Zornheim, 15 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/LZe5cvezyax">Feierabendwanderung durch die Zornheimer Weinberge 🍇🥾</a><br>
 
-Kai, Fr. 10.04.2026 von 19:00 bis 22:00 Uhr, Waldalgesheim, 2 Teilnehmer <br>
+Kai, Fr. 10.04.2026 von 19:00 bis 22:00 Uhr, Waldalgesheim, 5 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/spiele/appointments/HFjZHm7S5yM">Spieleabend 🎲🃏 im Gartenhaus 🔥</a><br>
 
 Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 2 Teilnehmer (6 Plätze frei)<br>
@@ -61,7 +64,7 @@ MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehme
 Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
 
-Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 12 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Qio8dDwcBrV">Michels Vitaltour - Auf den Spuren des "Deutschen Michel"</a><br>
 
 Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 9 Teilnehmer (aktuell ausgebucht)<br>
