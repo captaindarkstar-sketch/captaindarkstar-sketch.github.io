@@ -1,22 +1,22 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Chris, Morgen von 10:30 bis 14:30 Uhr, 55756 Herrstein, 4 Teilnehmer (4 Plätze frei)<br>
+Chris, Heute von 10:30 bis 14:30 Uhr, 55756 Herrstein, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/2ME4oxUBMD7">Wanderung "Traumschleife Mittelalterpfad"</a><br>
 
-Anja, Morgen von 12:30 bis 16:00 Uhr, 55595 Wallhausen, 8 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Heute von 12:30 bis 16:30 Uhr, 55595 Wallhausen, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/SxMxD4nTTd4">VitalTour Stein, Wein und Farbe</a><br>
 
-Thomas, Sa. 04.04.2026 von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer <br>
+Thomas, Morgen von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/74ydixvvgCa">Rundwanderung Falkensteiner Schlucht und Burgruine .... (Pfalz)</a><br>
 
-Peter, Sa. 04.04.2026 von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
+Peter, Morgen von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/sport/appointments/Uour96YCbUS">Handyweitwurf an der Kostheimer Mainaue</a><br>
 
-Tanja, Sa. 04.04.2026 von 11:45 bis 16:00 Uhr, 60311 Frankfurt am Main, 7 Teilnehmer (2 Plätze frei)<br>
+Tanja, Morgen von 11:45 bis 16:00 Uhr, 60311 Frankfurt am Main, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/K3if63mZZPM">Kleinmarkthalle Frankfurt 4. April 🍷🙂</a><br>
 
-Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 13 Teilnehmer (aktuell ausgebucht)<br>
+Ralf, So. 05.04.2026 von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 11 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
 
 MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer (aktuell ausgebucht)<br>
@@ -25,7 +25,10 @@ MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer 
 Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
 
-Stefan, Do. 09.04.2026 von 18:00 bis 21:00 Uhr, 55270 Zornheim, 15 Teilnehmer <br>
+Stefan, Di. 07.04.2026 von 19:00 bis 22:00 Uhr, 65479 Raunheim, 5 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/4rSHmhZkpBN">Feierabendwanderung Staustufe Eddersheim-Flörsheimer Mainufer am 07.04.2026</a><br>
+
+Stefan, Do. 09.04.2026 von 18:00 bis 21:00 Uhr, 55270 Zornheim, 14 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/LZe5cvezyax">Feierabendwanderung durch die Zornheimer Weinberge 🍇🥾</a><br>
 
 Kai, Fr. 10.04.2026 von 19:00 bis 22:00 Uhr, Waldalgesheim, 5 Teilnehmer <br>
@@ -46,6 +49,9 @@ Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 15 Teilnehmer
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
 
+Anja, So. 03.05.2026 von 12:30 bis 16:30 Uhr, 55234 Offenheim, 8 Teilnehmer (7 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/HKFKuW5gyja">🆕️ Hiwweltour Vorholz</a><br>
+
 Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
 
@@ -55,11 +61,14 @@ Kai, So. 10.05.2026 von 06:45 bis 09:45 Uhr, 55435 Gau-Algesheim, 6 Teilnehmer <
 Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/dxBAvVkdz1Y">Wanderspaziergang mit Festbesuch 'Scheu time',  Alzey</a><br>
 
-Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 15 Teilnehmer (aktuell ausgebucht)<br>
+Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
 
 MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
+
+Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 6 Teilnehmer (9 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/EGg2XDYnwLD">🆕️ Hiwweltour Saulheimer Hölle</a><br>
 
 Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
