@@ -1,25 +1,19 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Thomas, Heute von 11:00 bis 17:00 Uhr, 67808 Falkenstein, 1 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/74ydixvvgCa">Rundwanderung Falkensteiner Schlucht und Burgruine .... (Pfalz)</a><br>
-
-Peter, Heute von 11:00 bis 14:00 Uhr, Wiesbaden, 1 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/sport/appointments/Uour96YCbUS">Handyweitwurf an der Kostheimer Mainaue</a><br>
-
-Tanja, Heute von 11:45 bis 16:00 Uhr, 60311 Frankfurt am Main, 10 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/K3if63mZZPM">Kleinmarkthalle Frankfurt 4. April 🍷🙂</a><br>
-
-Ralf, Morgen von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 7 Teilnehmer (5 Plätze frei)<br>
+Ralf, Heute von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 7 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
 
-MichaeL, Mo. 06.04.2026 von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 11 Teilnehmer (aktuell ausgebucht)<br>
+André, Heute von 15:30 bis 17:30 Uhr, 55543 Bad Kreuznach, 2 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/tanzen/appointments/B4XLbL8fAgV">Tanzen und Picknick im Kurpark Bad kreuznach</a><br>
+
+MichaeL, Morgen von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RbbokSod1fq">Osterwanderung zum Adlerbogen (Donnersberg)</a><br>
 
 Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
 
-Stefan, Di. 07.04.2026 von 19:00 bis 22:00 Uhr, 65479 Raunheim, 6 Teilnehmer <br>
+Stefan, Di. 07.04.2026 von 19:00 bis 22:00 Uhr, 65479 Raunheim, 9 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4rSHmhZkpBN">Feierabendwanderung Staustufe Eddersheim-Flörsheimer Mainufer am 07.04.2026</a><br>
 
 Stefan, Do. 09.04.2026 von 18:00 bis 21:00 Uhr, 55270 Zornheim, 16 Teilnehmer <br>
@@ -39,6 +33,9 @@ Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teiln
 
 Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
+
+Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 1 Teilnehmer (7 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/4E99WjW2kCY">Weinfrühling am Schillerplatz</a><br>
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
