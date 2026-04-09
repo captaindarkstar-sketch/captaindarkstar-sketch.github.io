@@ -1,28 +1,13 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Ralf, Heute von 10:00 bis 18:30 Uhr, 55599 Wonsheim, 7 Teilnehmer (5 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/j1ERXoTq2kJ">Osterwanderung Aulheimer Tal und Rheinhessische Schweiz</a><br>
-
-André, Heute von 15:30 bis 17:30 Uhr, 55543 Bad Kreuznach, 2 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/tanzen/appointments/B4XLbL8fAgV">Tanzen und Picknick im Kurpark Bad kreuznach</a><br>
-
-MichaeL, Morgen von 10:30 bis 18:00 Uhr, 67814 Dannenfels, 9 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/RbbokSod1fq">Osterwanderung zum Adlerbogen (Donnersberg)</a><br>
-
-Micha, Di. 07.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/McdadtqX62T">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o7.o4.o26</a><br>
-
-Stefan, Di. 07.04.2026 von 19:00 bis 22:00 Uhr, 65479 Raunheim, 9 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/4rSHmhZkpBN">Feierabendwanderung Staustufe Eddersheim-Flörsheimer Mainufer am 07.04.2026</a><br>
-
-Stefan, Do. 09.04.2026 von 18:00 bis 21:00 Uhr, 55270 Zornheim, 16 Teilnehmer <br>
+Stefan, Heute von 18:00 bis 21:00 Uhr, 55270 Zornheim, 17 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/LZe5cvezyax">Feierabendwanderung durch die Zornheimer Weinberge 🍇🥾</a><br>
 
-Kai, Fr. 10.04.2026 von 19:00 bis 22:00 Uhr, Waldalgesheim, 5 Teilnehmer <br>
+Kai, Morgen von 19:00 bis 22:00 Uhr, Waldalgesheim, 5 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/spiele/appointments/HFjZHm7S5yM">Spieleabend 🎲🃏 im Gartenhaus 🔥</a><br>
 
-Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 2 Teilnehmer (6 Plätze frei)<br>
+Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JHFpqy3TT3U">Traumschleife "Elfenlay"</a><br>
 
 Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 11 Teilnehmer (aktuell ausgebucht)<br>
@@ -34,11 +19,17 @@ Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teiln
 Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
-Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 1 Teilnehmer (7 Plätze frei)<br>
+Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 9 Teilnehmer (3 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/2LRSM5pFazJ">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 21.o4.o26</a><br>
+
+Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4E99WjW2kCY">Weinfrühling am Schillerplatz</a><br>
 
-Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 14 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
+
+Evi, Do. 30.04.2026 von 20:00 bis 01:00 Uhr, Ingelheim am Rhein, 4 Teilnehmer (2 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/tanzen/appointments/XBkJWRYPP94">Tanz in den Mai - TuS Ober-Ingelheim</a><br>
 
 Anja, So. 03.05.2026 von 12:30 bis 16:30 Uhr, 55234 Offenheim, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/HKFKuW5gyja">🆕️ Hiwweltour Vorholz</a><br>
@@ -52,10 +43,13 @@ Kai, So. 10.05.2026 von 06:45 bis 09:45 Uhr, 55435 Gau-Algesheim, 6 Teilnehmer <
 Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/dxBAvVkdz1Y">Wanderspaziergang mit Festbesuch 'Scheu time',  Alzey</a><br>
 
+Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
+
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
 
-MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 15 Teilnehmer (1 Platz frei)<br>
+MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
 
 Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -67,13 +61,13 @@ Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer 
 Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Qio8dDwcBrV">Michels Vitaltour - Auf den Spuren des "Deutschen Michel"</a><br>
 
-Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 9 Teilnehmer (aktuell ausgebucht)<br>
+Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 8 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/DAZcbZ3T6BZ">Nacht der Kunst Ingelheim</a><br>
 
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 9 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
 Ralf, Sa. 29.08.2026 von 13:30 bis 23:30 Uhr, 67583 Guntersblum, 19 Teilnehmer (aktuell ausgebucht)<br>
