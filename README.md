@@ -1,26 +1,29 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Stefan, Heute von 18:00 bis 21:00 Uhr, 55270 Zornheim, 17 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/LZe5cvezyax">Feierabendwanderung durch die Zornheimer Weinberge 🍇🥾</a><br>
-
-Kai, Morgen von 19:00 bis 22:00 Uhr, Waldalgesheim, 5 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/spiele/appointments/HFjZHm7S5yM">Spieleabend 🎲🃏 im Gartenhaus 🔥</a><br>
-
-Chris, So. 12.04.2026 von 11:00 bis 17:00 Uhr, 56154 Boppard, 3 Teilnehmer (5 Plätze frei)<br>
+Chris, Morgen von 11:00 bis 17:00 Uhr, 56154 Boppard, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JHFpqy3TT3U">Traumschleife "Elfenlay"</a><br>
+
+Stefan, Di. 14.04.2026 von 19:00 bis 22:00 Uhr, 65428 Rüsselsheim am Main, 10 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/ezRtbm4UGnh">Feierabendwanderung – Gemeinsam die Horlache entdecken! 🍂</a><br>
 
 Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/ZxaHjJAGNXa">Comedy: Matilde Keizer „Lasagne im Bett“ Neues Theater Höchst</a><br>
 
-Marco, Fr. 17.04.2026 von 19:30 bis 20:30 Uhr, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/konzerte/appointments/Qm6tXuDS6nJ">Konzert Saalkirche Ingelheim: Saiten und Pfeifen</a><br>
+Stefan, Do. 16.04.2026 von 18:00 bis 21:00 Uhr, 55291 Saulheim, 10 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/EJWBLY1ypyg">Feierabendwanderung Hiwweltour "Saulheimer Hölle"</a><br>
 
 Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
-Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 9 Teilnehmer (3 Plätze frei)<br>
+Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 3 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/g7ViDjFZPfm">Feierabendwanderung zum Mittelpunkt Rheinhessens</a><br>
+
+Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/2LRSM5pFazJ">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 21.o4.o26</a><br>
+
+Stefan, Di. 21.04.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/ibuheQG5UR3">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
 Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4E99WjW2kCY">Weinfrühling am Schillerplatz</a><br>
@@ -63,6 +66,9 @@ Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 13 Teilnehmer
 
 Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 8 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/DAZcbZ3T6BZ">Nacht der Kunst Ingelheim</a><br>
+
+Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 6 Teilnehmer (2 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/d4Ek4jnMbns">SUP 🏄‍♀️ KURS FÜR EINSTEIGER & NEUGIERIGE</a><br>
 
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
