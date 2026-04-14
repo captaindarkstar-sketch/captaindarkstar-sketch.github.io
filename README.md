@@ -1,10 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Stefan, Morgen von 19:00 bis 22:00 Uhr, 65428 Rüsselsheim am Main, 15 Teilnehmer <br>
+Stefan, Heute von 19:00 bis 22:00 Uhr, 65428 Rüsselsheim am Main, 18 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ezRtbm4UGnh">Feierabendwanderung – Gemeinsam die Horlache entdecken! 🍂</a><br>
 
-Tanja, Mi. 15.04.2026 von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 11 Teilnehmer (aktuell ausgebucht)<br>
+Tanja, Morgen von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/ZxaHjJAGNXa">Comedy: Matilde Keizer „Lasagne im Bett“ Neues Theater Höchst</a><br>
 
 Stefan, Do. 16.04.2026 von 18:00 bis 21:00 Uhr, 55291 Saulheim, 12 Teilnehmer <br>
@@ -16,7 +16,7 @@ Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 15 Teilnehmer
 Marco, Mo. 20.04.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 3 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/YCZE69fwjfi">Vortrag: Macht, interpersonale und strukturelle Beherrschung</a><br>
 
-Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 7 Teilnehmer <br>
+Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/g7ViDjFZPfm">Feierabendwanderung zum Mittelpunkt Rheinhessens</a><br>
 
 Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
