@@ -1,22 +1,22 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Stefan, Heute von 19:00 bis 22:00 Uhr, 65428 Rüsselsheim am Main, 18 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/ezRtbm4UGnh">Feierabendwanderung – Gemeinsam die Horlache entdecken! 🍂</a><br>
-
-Tanja, Morgen von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 11 Teilnehmer (aktuell ausgebucht)<br>
+Tanja, Heute von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/ZxaHjJAGNXa">Comedy: Matilde Keizer „Lasagne im Bett“ Neues Theater Höchst</a><br>
 
-Stefan, Do. 16.04.2026 von 18:00 bis 21:00 Uhr, 55291 Saulheim, 12 Teilnehmer <br>
+Stefan, Morgen von 18:00 bis 21:00 Uhr, 55291 Saulheim, 11 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/EJWBLY1ypyg">Feierabendwanderung Hiwweltour "Saulheimer Hölle"</a><br>
 
-Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 15 Teilnehmer (aktuell ausgebucht)<br>
+Kateryna, Sa. 18.04.2026 von 10:00 bis 16:00 Uhr, 65201 Wiesbaden, 5 Teilnehmer (5 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/ScphFKRaaer">Wandern vom Schiersteiner Hafen nach Schlangenbad</a><br>
+
+Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
 Marco, Mo. 20.04.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 3 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/YCZE69fwjfi">Vortrag: Macht, interpersonale und strukturelle Beherrschung</a><br>
 
-Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 8 Teilnehmer <br>
+Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 9 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/g7ViDjFZPfm">Feierabendwanderung zum Mittelpunkt Rheinhessens</a><br>
 
 Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -25,7 +25,7 @@ Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell
 Stefan, Di. 21.04.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ibuheQG5UR3">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
-Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 4 Teilnehmer (4 Plätze frei)<br>
+Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 6 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4E99WjW2kCY">Weinfrühling am Schillerplatz</a><br>
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -79,10 +79,10 @@ Marco, Mo. 22.06.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 5 Teilnehmer (4 Plä
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 21 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 20 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
-Marco, Mo. 06.07.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 10 Teilnehmer (aktuell ausgebucht)<br>
+Marco, Mo. 06.07.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/Emu5BToF7w8">Vortrag: Empathie, Mitgefühl und Perspektivenübernahme</a><br>
 
 Ralf, Sa. 29.08.2026 von 13:30 bis 23:30 Uhr, 67583 Guntersblum, 19 Teilnehmer (aktuell ausgebucht)<br>
