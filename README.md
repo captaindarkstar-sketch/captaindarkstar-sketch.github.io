@@ -1,13 +1,7 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Tanja, Heute von 19:30 bis 23:30 Uhr, 65929 Frankfurt am Main, 10 Teilnehmer (1 Platz frei)<br>
-<a href="https://community.spontacts.com/community/kunst-kultur/appointments/ZxaHjJAGNXa">Comedy: Matilde Keizer „Lasagne im Bett“ Neues Theater Höchst</a><br>
-
-Stefan, Morgen von 18:00 bis 21:00 Uhr, 55291 Saulheim, 11 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/EJWBLY1ypyg">Feierabendwanderung Hiwweltour "Saulheimer Hölle"</a><br>
-
-Kateryna, Sa. 18.04.2026 von 10:00 bis 16:00 Uhr, 65201 Wiesbaden, 5 Teilnehmer (5 Plätze frei)<br>
+Kateryna, Morgen von 10:00 bis 16:00 Uhr, 65201 Wiesbaden, 8 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ScphFKRaaer">Wandern vom Schiersteiner Hafen nach Schlangenbad</a><br>
 
 Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 14 Teilnehmer (aktuell ausgebucht)<br>
@@ -22,10 +16,13 @@ Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 9 Teilnehmer <b
 Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/2LRSM5pFazJ">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 21.o4.o26</a><br>
 
-Stefan, Di. 21.04.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 2 Teilnehmer <br>
+Stefan, Di. 21.04.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ibuheQG5UR3">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
-Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 6 Teilnehmer (2 Plätze frei)<br>
+Volker, Do. 23.04.2026 von 17:00 bis 20:00 Uhr, 55543 Bad Kreuznach, 1 Teilnehmer (4 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/5Nfg1XAsJjd">Feierabend Markt Bad Kreuznach</a><br>
+
+Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4E99WjW2kCY">Weinfrühling am Schillerplatz</a><br>
 
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -48,6 +45,9 @@ Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 12 Teilnehmer (aktuel
 
 Marco, Mo. 11.05.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 1 Teilnehmer (8 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/gM2kg1cDpHa">Vortrag: Kooperation und Vertrauen</a><br>
+
+Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 8 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">3-Burgen-Weg / Königstein im Taunus</a><br>
 
 Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
