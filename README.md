@@ -1,16 +1,16 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Kateryna, Morgen von 10:00 bis 16:00 Uhr, 65201 Wiesbaden, 8 Teilnehmer (2 Plätze frei)<br>
+Kateryna, Heute von 10:00 bis 16:00 Uhr, 65201 Wiesbaden, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ScphFKRaaer">Wandern vom Schiersteiner Hafen nach Schlangenbad</a><br>
 
-Anja, So. 19.04.2026 von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 14 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 11:00 bis 15:00 Uhr, 55239 Gau-Odernheim, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XsxyTfyEPQD">Kulturweg Petersberg, Ausgrabungsstätte Krypta & Wildtulpenfest</a><br>
 
 Marco, Mo. 20.04.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 3 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/YCZE69fwjfi">Vortrag: Macht, interpersonale und strukturelle Beherrschung</a><br>
 
-Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 9 Teilnehmer <br>
+Stefan, Mo. 20.04.2026 von 18:00 bis 22:00 Uhr, 55288 Spiesheim, 10 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/g7ViDjFZPfm">Feierabendwanderung zum Mittelpunkt Rheinhessens</a><br>
 
 Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -19,7 +19,7 @@ Micha, Di. 21.04.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 12 Teilnehmer (aktuell
 Stefan, Di. 21.04.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ibuheQG5UR3">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
-Volker, Do. 23.04.2026 von 17:00 bis 20:00 Uhr, 55543 Bad Kreuznach, 1 Teilnehmer (4 Plätze frei)<br>
+Volker, Do. 23.04.2026 von 17:00 bis 20:00 Uhr, 55543 Bad Kreuznach, 2 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/5Nfg1XAsJjd">Feierabend Markt Bad Kreuznach</a><br>
 
 Oliver, Do. 23.04.2026 von 18:30 bis 22:00 Uhr, 55116 Mainz, 8 Teilnehmer (aktuell ausgebucht)<br>
@@ -31,8 +31,14 @@ Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 12 Teilnehm
 Evi, Do. 30.04.2026 von 20:00 bis 01:00 Uhr, Ingelheim am Rhein, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/XBkJWRYPP94">Tanz in den Mai - TuS Ober-Ingelheim</a><br>
 
+Marleen (Leni), Fr. 01.05.2026 von 11:00 bis 17:00 Uhr, 55435 Gau-Algesheim, 4 Teilnehmer (4 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/ddMCLjS1wuT">Lagenweinwanderung Gau-Algesheim</a><br>
+
 Anja, So. 03.05.2026 von 12:30 bis 16:30 Uhr, 55234 Offenheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/HKFKuW5gyja">🆕️ Hiwweltour Vorholz</a><br>
+
+Stefan, Mo. 04.05.2026 von 18:00 bis 21:00 Uhr, Nackenheim, 9 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/HenJQezhtmH">Feierabendwanderung "Nackenheimer Weinberge"</a><br>
 
 Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
@@ -46,7 +52,7 @@ Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 12 Teilnehmer (aktuel
 Marco, Mo. 11.05.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 1 Teilnehmer (8 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/gM2kg1cDpHa">Vortrag: Kooperation und Vertrauen</a><br>
 
-Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 8 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">3-Burgen-Weg / Königstein im Taunus</a><br>
 
 Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
