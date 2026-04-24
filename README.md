@@ -1,12 +1,6 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Volker, Heute von 17:00 bis 20:00 Uhr, 55543 Bad Kreuznach, 1 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/5Nfg1XAsJjd">Feierabend Markt Bad Kreuznach</a><br>
-
-Oliver, Heute von 18:30 bis 22:00 Uhr, 55116 Mainz, 5 Teilnehmer (3 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/4E99WjW2kCY">Weinfrühling am Schillerplatz</a><br>
-
 Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
 
@@ -22,7 +16,7 @@ Anja, So. 03.05.2026 von 12:30 bis 16:30 Uhr, 55234 Offenheim, 15 Teilnehmer (ak
 Stefan, Mo. 04.05.2026 von 18:00 bis 21:00 Uhr, Nackenheim, 15 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HenJQezhtmH">Feierabendwanderung "Nackenheimer Weinberge"</a><br>
 
-Micha, Di. 05.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 13 Teilnehmer (1 Platz frei)<br>
+Micha, Di. 05.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d7AbXSwpe8w">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o5.o5.o26</a><br>
 
 Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
@@ -67,7 +61,7 @@ Marco, Mo. 22.06.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 6 Teilnehmer (3 Plä
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 19 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 17 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
 Marco, Mo. 06.07.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 11 Teilnehmer (aktuell ausgebucht)<br>
