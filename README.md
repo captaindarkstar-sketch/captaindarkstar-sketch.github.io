@@ -1,7 +1,7 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Caroline, So. 26.04.2026 von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 11 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, Morgen von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
 
 Evi, Do. 30.04.2026 von 20:00 bis 01:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
