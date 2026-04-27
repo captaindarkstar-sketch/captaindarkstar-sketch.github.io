@@ -1,13 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Caroline, Heute von 10:45 bis 16:30 Uhr, 67824 Feilbingert, 10 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/cgPvUDgAQak">Vitaltour "Geheimnisvoller Lemberg" 🌸</a><br>
-
 Evi, Do. 30.04.2026 von 20:00 bis 01:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/XBkJWRYPP94">Tanz in den Mai - TuS Ober-Ingelheim</a><br>
 
-Marleen (Leni), Fr. 01.05.2026 von 11:00 bis 17:00 Uhr, 55435 Gau-Algesheim, 6 Teilnehmer (2 Plätze frei)<br>
+Marleen (Leni), Fr. 01.05.2026 von 11:00 bis 17:00 Uhr, 55435 Gau-Algesheim, 7 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ddMCLjS1wuT">Lagenweinwanderung Gau-Algesheim</a><br>
 
 Anja, So. 03.05.2026 von 12:30 bis 16:30 Uhr, 55234 Offenheim, 15 Teilnehmer (aktuell ausgebucht)<br>
@@ -43,7 +40,7 @@ MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehme
 Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/EGg2XDYnwLD">🆕️ Hiwweltour Saulheimer Hölle</a><br>
 
-Caroline, Sa. 30.05.2026 von 11:00 bis 18:00 Uhr, 65391 Lorch, 8 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, Sa. 30.05.2026 von 11:00 bis 18:00 Uhr, 65391 Lorch, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/bUiXdq9irSy">Rhein-Wisper-Glück, Lorchhausen "Die Perle der Wisper-Trails"</a><br>
 
 Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
@@ -55,7 +52,7 @@ Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 12 Teilnehmer
 Marco, Fr. 12.06.2026 von 18:00 bis 23:00 Uhr, 55218 Ingelheim am Rhein, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/DAZcbZ3T6BZ">Nacht der Kunst Ingelheim</a><br>
 
-Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 8 Teilnehmer (1 Platz frei)<br>
+Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d4Ek4jnMbns">SUP 🏄‍♀️ KURS FÜR EINSTEIGER & NEUGIERIGE</a><br>
 
 Marco, Mo. 22.06.2026 von 18:00 bis 20:00 Uhr, 55128 Mainz, 6 Teilnehmer (3 Plätze frei)<br>
