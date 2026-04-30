@@ -1,10 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Evi, Morgen von 20:00 bis 01:00 Uhr, Ingelheim am Rhein, 6 Teilnehmer (2 Plätze frei)<br>
+Evi, Heute von 20:00 bis 01:00 Uhr, Ingelheim am Rhein, 5 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/XBkJWRYPP94">Tanz in den Mai - TuS Ober-Ingelheim</a><br>
 
-Marleen (Leni), Fr. 01.05.2026 von 11:00 bis 17:00 Uhr, 55435 Gau-Algesheim, 7 Teilnehmer (1 Platz frei)<br>
+Marleen (Leni), Morgen von 11:00 bis 17:00 Uhr, 55435 Gau-Algesheim, 7 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ddMCLjS1wuT">Lagenweinwanderung Gau-Algesheim</a><br>
 
 Anja, So. 03.05.2026 von 12:30 bis 16:30 Uhr, 55234 Offenheim, 15 Teilnehmer (aktuell ausgebucht)<br>
