@@ -4,10 +4,10 @@
 Anja, Heute von 12:30 bis 16:30 Uhr, 55234 Offenheim, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/HKFKuW5gyja">🆕️ Hiwweltour Vorholz</a><br>
 
-Stefan, Morgen von 18:00 bis 21:00 Uhr, Nackenheim, 16 Teilnehmer <br>
+Stefan, Morgen von 18:00 bis 21:00 Uhr, Nackenheim, 15 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HenJQezhtmH">Feierabendwanderung "Nackenheimer Weinberge"</a><br>
 
-Micha, Di. 05.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
+Micha, Di. 05.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 13 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d7AbXSwpe8w">Kleine Feierabend Wanderung mit Jubiläum & Weinstand-Ende am Di. o5.o5.o26</a><br>
 
 Stefan, Di. 05.05.2026 von 19:00 bis 22:00 Uhr, 63150 Heusenstamm, 1 Teilnehmer <br>
@@ -31,7 +31,7 @@ Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 1
 Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
 
-Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 4 Teilnehmer (4 Plätze frei)<br>
+Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 5 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/A5hYTdBCV6k">🎒🥾 Hiwweltour Wasserturm, Wöllstein</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
