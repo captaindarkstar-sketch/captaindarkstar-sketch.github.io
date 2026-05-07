@@ -1,37 +1,40 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Fr. 08.05.2026 von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
 
 Kai, So. 10.05.2026 von 06:45 bis 09:45 Uhr, 55435 Gau-Algesheim, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/naturfreunde/appointments/LkCY331dRp1">NABU- 🐦🦅🦜Vogelstimmenwanderung Westerberg  🦅🦜🐦</a><br>
 
-Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 11 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/dxBAvVkdz1Y">Wanderspaziergang mit Festbesuch 'Scheu time',  Alzey</a><br>
 
 Stefan, Mo. 11.05.2026 von 19:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 11 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/S862RnFqUAQ">Feierabendwanderung Ingelheimer Auslese</a><br>
 
+Stefan, Di. 12.05.2026 von 19:00 bis 22:00 Uhr, 64546 Mörfelden-Walldorf, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/W7BoUrJMTUk">Feierabendwanderung durch den Mönchbruch</a><br>
+
 Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">3-Burgen-Weg / Königstein im Taunus</a><br>
 
-Evi, Do. 14.05.2026 von 18:30 bis 23:30 Uhr, 72511 Bingen, 3 Teilnehmer (3 Plätze frei)<br>
+Evi, Do. 14.05.2026 von 18:30 bis 23:30 Uhr, 72511 Bingen, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/9UgvkM1GAgx">Nacht der Verführung in Bingen - an Himmelfahrt</a><br>
 
-Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 11 Teilnehmer (1 Platz frei)<br>
+Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
 
 Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/A5hYTdBCV6k">🎒🥾 Hiwweltour Wasserturm, Wöllstein</a><br>
 
-Micha, Di. 19.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 1 Teilnehmer (13 Plätze frei)<br>
+Micha, Di. 19.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 11 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/6RBS5C2x8Wo">Kleine Feierabend Wanderung und Weinstand-Ende am Di. 19.o5.o26</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
 
-MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (aktuell ausgebucht)<br>
+MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 15 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
 
 Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
