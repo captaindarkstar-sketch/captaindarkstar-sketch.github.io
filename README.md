@@ -1,16 +1,16 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Heute von 18:00 bis 21:30 Uhr, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/RyeCzdTBNJo">♀️ Ingelheimer Frühlings-Weinfest</a><br>
+Thorsten, Heute von 17:00 bis 22:00 Uhr, 65366 Geisenheim, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/ausgehen/appointments/fkSRCm4zxu8">Besser als Nix Festival in Geisenheim</a><br>
 
-Kai, So. 10.05.2026 von 06:45 bis 09:45 Uhr, 55435 Gau-Algesheim, 8 Teilnehmer <br>
+Kai, Morgen von 06:45 bis 09:45 Uhr, 55435 Gau-Algesheim, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/naturfreunde/appointments/LkCY331dRp1">NABU- 🐦🦅🦜Vogelstimmenwanderung Westerberg  🦅🦜🐦</a><br>
 
-Anja, So. 10.05.2026 von 10:30 bis 14:00 Uhr, 55232 Alzey, 10 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 10:30 bis 14:00 Uhr, 55232 Alzey, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/dxBAvVkdz1Y">Wanderspaziergang mit Festbesuch 'Scheu time',  Alzey</a><br>
 
-Stefan, Mo. 11.05.2026 von 19:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 11 Teilnehmer <br>
+Stefan, Mo. 11.05.2026 von 19:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 10 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/S862RnFqUAQ">Feierabendwanderung Ingelheimer Auslese</a><br>
 
 Stefan, Di. 12.05.2026 von 19:00 bis 22:00 Uhr, 64546 Mörfelden-Walldorf, 3 Teilnehmer <br>
@@ -18,6 +18,9 @@ Stefan, Di. 12.05.2026 von 19:00 bis 22:00 Uhr, 64546 Mörfelden-Walldorf, 3 Tei
 
 Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">3-Burgen-Weg / Königstein im Taunus</a><br>
+
+Anja, Do. 14.05.2026 von 14:00 bis 16:00 Uhr, 55286 Wörrstadt, 3 Teilnehmer (1 Platz frei)<br>
+<a href="https://community.spontacts.com/community/essen-trinken/appointments/ZEpqVgDzoZm">Eis essen beim 3-fachen Deutschen Meister, Wörrstadt</a><br>
 
 Evi, Do. 14.05.2026 von 18:30 bis 23:30 Uhr, 72511 Bingen, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/9UgvkM1GAgx">Nacht der Verführung in Bingen - an Himmelfahrt</a><br>
