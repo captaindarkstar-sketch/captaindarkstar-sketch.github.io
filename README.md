@@ -1,41 +1,32 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Thorsten, Heute von 17:00 bis 22:00 Uhr, 65366 Geisenheim, 1 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/ausgehen/appointments/fkSRCm4zxu8">Besser als Nix Festival in Geisenheim</a><br>
-
-Kai, Morgen von 06:45 bis 09:45 Uhr, 55435 Gau-Algesheim, 8 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/naturfreunde/appointments/LkCY331dRp1">NABU- 🐦🦅🦜Vogelstimmenwanderung Westerberg  🦅🦜🐦</a><br>
-
-Anja, Morgen von 10:30 bis 14:00 Uhr, 55232 Alzey, 9 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/dxBAvVkdz1Y">Wanderspaziergang mit Festbesuch 'Scheu time',  Alzey</a><br>
-
-Stefan, Mo. 11.05.2026 von 19:00 bis 22:00 Uhr, 55218 Ingelheim am Rhein, 10 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/S862RnFqUAQ">Feierabendwanderung Ingelheimer Auslese</a><br>
-
-Stefan, Di. 12.05.2026 von 19:00 bis 22:00 Uhr, 64546 Mörfelden-Walldorf, 3 Teilnehmer <br>
+Stefan, Heute von 19:00 bis 22:00 Uhr, 64546 Mörfelden-Walldorf, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/W7BoUrJMTUk">Feierabendwanderung durch den Mönchbruch</a><br>
 
-Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 10 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">3-Burgen-Weg / Königstein im Taunus</a><br>
+Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 7 Teilnehmer (1 Platz frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">Fällt aus…! Siehe Beschreibung… 3-Burgen-Weg / Königstein im Taunus</a><br>
 
-Anja, Do. 14.05.2026 von 14:00 bis 16:00 Uhr, 55286 Wörrstadt, 3 Teilnehmer (1 Platz frei)<br>
+Anja, Do. 14.05.2026 von 14:00 bis 16:00 Uhr, 55286 Wörrstadt, 4 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/essen-trinken/appointments/ZEpqVgDzoZm">Eis essen beim 3-fachen Deutschen Meister, Wörrstadt</a><br>
-
-Evi, Do. 14.05.2026 von 18:30 bis 23:30 Uhr, 72511 Bingen, 2 Teilnehmer (4 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/tanzen/appointments/9UgvkM1GAgx">Nacht der Verführung in Bingen - an Himmelfahrt</a><br>
 
 Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
 
-Kateryna, Sa. 16.05.2026 von 10:00 bis 17:00 Uhr, 65385 Rüdesheim am Rhein, 4 Teilnehmer (6 Plätze frei)<br>
+Kateryna, Sa. 16.05.2026 von 10:00 bis 17:00 Uhr, 65385 Rüdesheim am Rhein, 9 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KxAHpSNYpAk">Wandern Rheinsteig Etappe 5 von Rüdesheim nach Lorch</a><br>
 
-Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 9 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/A5hYTdBCV6k">🎒🥾 Hiwweltour Wasserturm, Wöllstein</a><br>
 
-Micha, Di. 19.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 13 Teilnehmer (1 Platz frei)<br>
+Micha, Di. 19.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/6RBS5C2x8Wo">Kleine Feierabend Wanderung und Weinstand-Ende am Di. 19.o5.o26</a><br>
+
+Siegfried, Mi. 20.05.2026 von 10:30 bis 17:00 Uhr, Bad Kreuznach, 1 Teilnehmer (3 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/THKrNNPibVj">Wanderung Bad Münster am Stein nach Bad Kreuznach</a><br>
+
+Evi, Fr. 22.05.2026 von 19:00 bis 23:30 Uhr, 72511 Bingen, 4 Teilnehmer (2 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/tanzen/appointments/9UgvkM1GAgx">Neues Datum!! Nacht der Verführung in Bingen am 22. Mai</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
@@ -58,10 +49,13 @@ Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 12 Teilnehmer
 Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d4Ek4jnMbns">SUP 🏄‍♀️ KURS FÜR EINSTEIGER & NEUGIERIGE</a><br>
 
+Caroline, Sa. 27.06.2026 von 10:15 bis 17:00 Uhr, 55585 Altenbamberg, 10 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DZy4NqBrgkZ">Wanderung zur "Ruine Altenbaumburg" im Naturpark Soonwald-Nahe mit Einkehr</a><br>
+
 Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 17 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 18 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
 Ralf, Sa. 29.08.2026 von 13:30 bis 23:30 Uhr, 67583 Guntersblum, 19 Teilnehmer (aktuell ausgebucht)<br>
