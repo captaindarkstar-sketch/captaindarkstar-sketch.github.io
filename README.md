@@ -1,19 +1,16 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Stefan, Heute von 19:00 bis 22:00 Uhr, 64546 Mörfelden-Walldorf, 8 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/W7BoUrJMTUk">Feierabendwanderung durch den Mönchbruch</a><br>
-
-Caroline, Do. 14.05.2026 von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 7 Teilnehmer (1 Platz frei)<br>
+Caroline, Morgen von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">Fällt aus…! Siehe Beschreibung… 3-Burgen-Weg / Königstein im Taunus</a><br>
 
-Anja, Do. 14.05.2026 von 14:00 bis 16:00 Uhr, 55286 Wörrstadt, 4 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Morgen von 14:00 bis 16:00 Uhr, 55286 Wörrstadt, 4 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/essen-trinken/appointments/ZEpqVgDzoZm">Eis essen beim 3-fachen Deutschen Meister, Wörrstadt</a><br>
 
 Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
 
-Kateryna, Sa. 16.05.2026 von 10:00 bis 17:00 Uhr, 65385 Rüdesheim am Rhein, 9 Teilnehmer (1 Platz frei)<br>
+Kateryna, Sa. 16.05.2026 von 10:00 bis 17:00 Uhr, 65385 Rüdesheim am Rhein, 8 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KxAHpSNYpAk">Wandern Rheinsteig Etappe 5 von Rüdesheim nach Lorch</a><br>
 
 Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 8 Teilnehmer (aktuell ausgebucht)<br>
@@ -39,6 +36,9 @@ Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 15 Teilnehmer (akt
 
 Caroline, Sa. 30.05.2026 von 11:00 bis 18:00 Uhr, 65391 Lorch, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/bUiXdq9irSy">Rhein-Wisper-Glück, Lorchhausen "Die Perle der Wisper-Trails"</a><br>
+
+Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/TNSWod9bm1C">Gonsenheimer Erdbeerfest</a><br>
 
 Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
