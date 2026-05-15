@@ -1,16 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Caroline, Morgen von 10:30 bis 18:00 Uhr, 61462 Königstein im Taunus, 7 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/VrjnVeGMUKM">Fällt aus…! Siehe Beschreibung… 3-Burgen-Weg / Königstein im Taunus</a><br>
-
-Anja, Morgen von 14:00 bis 16:00 Uhr, 55286 Wörrstadt, 4 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/essen-trinken/appointments/ZEpqVgDzoZm">Eis essen beim 3-fachen Deutschen Meister, Wörrstadt</a><br>
-
-Anja, Fr. 15.05.2026 von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Heute von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
 
-Kateryna, Sa. 16.05.2026 von 10:00 bis 17:00 Uhr, 65385 Rüdesheim am Rhein, 8 Teilnehmer (2 Plätze frei)<br>
+Kateryna, Morgen von 10:00 bis 17:00 Uhr, 65385 Rüdesheim am Rhein, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KxAHpSNYpAk">Wandern Rheinsteig Etappe 5 von Rüdesheim nach Lorch</a><br>
 
 Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 8 Teilnehmer (aktuell ausgebucht)<br>
@@ -24,6 +18,9 @@ Siegfried, Mi. 20.05.2026 von 10:30 bis 17:00 Uhr, Bad Kreuznach, 1 Teilnehmer (
 
 Evi, Fr. 22.05.2026 von 19:00 bis 23:30 Uhr, 72511 Bingen, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/tanzen/appointments/9UgvkM1GAgx">Neues Datum!! Nacht der Verführung in Bingen am 22. Mai</a><br>
+
+Thomas, Sa. 23.05.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/iZp4xb8hRkS">Blick auf Burg Falkenstein – Kupferberghütte Runde von Falkenstein</a><br>
 
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
@@ -43,8 +40,17 @@ Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 1 Teilnehmer <br>
 Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
 
+Stefan, Mo. 01.06.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/6Y4fmVm9vJn">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
+
+Stefan, Di. 02.06.2026 von 18:00 bis 21:00 Uhr, 55218 Ingelheim am Rhein, 6 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/Ct1i587NAGo">Feierabendwanderung Ingelheimer Auslese</a><br>
+
 Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Qio8dDwcBrV">Michels Vitaltour - Auf den Spuren des "Deutschen Michel"</a><br>
+
+carama, Sa. 13.06.2026 von 09:27 bis 16:27 Uhr, 65189 Wiesbaden, 9 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/spiele/appointments/ErXZGQAAkmH">36. Real Life Scotland Yard, zum 8. Mal in Wiesbaden</a><br>
 
 Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d4Ek4jnMbns">SUP 🏄‍♀️ KURS FÜR EINSTEIGER & NEUGIERIGE</a><br>
