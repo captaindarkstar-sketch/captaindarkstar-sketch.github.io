@@ -1,13 +1,7 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Heute von 19:00 bis 22:00 Uhr, Ingelheim am Rhein, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/bDaXNA6q9PF">Jour fixe Rheinhessen, Naheland & Rheingau</a><br>
-
-Kateryna, Morgen von 10:00 bis 17:00 Uhr, 65385 Rüdesheim am Rhein, 11 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/KxAHpSNYpAk">Wandern Rheinsteig Etappe 5 von Rüdesheim nach Lorch</a><br>
-
-Anja, So. 17.05.2026 von 12:30 bis 15:00 Uhr, Wöllstein, 8 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Heute von 12:30 bis 15:00 Uhr, Wöllstein, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/A5hYTdBCV6k">🎒🥾 Hiwweltour Wasserturm, Wöllstein</a><br>
 
 Micha, Di. 19.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 15 Teilnehmer (aktuell ausgebucht)<br>
@@ -25,7 +19,7 @@ Thomas, Sa. 23.05.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
 
-MichaeL, So. 24.05.2026 von 10:30 bis 17:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (aktuell ausgebucht)<br>
+MichaeL, So. 24.05.2026 von 10:30 bis 18:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
 
 Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
@@ -34,13 +28,13 @@ Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 15 Teilnehmer (akt
 Caroline, Sa. 30.05.2026 von 11:00 bis 18:00 Uhr, 65391 Lorch, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/bUiXdq9irSy">Rhein-Wisper-Glück, Lorchhausen "Die Perle der Wisper-Trails"</a><br>
 
-Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 1 Teilnehmer <br>
+Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/TNSWod9bm1C">Gonsenheimer Erdbeerfest</a><br>
 
 Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
 
-Stefan, Mo. 01.06.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 1 Teilnehmer <br>
+Stefan, Mo. 01.06.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 2 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/6Y4fmVm9vJn">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
 Stefan, Di. 02.06.2026 von 18:00 bis 21:00 Uhr, 55218 Ingelheim am Rhein, 6 Teilnehmer <br>
