@@ -1,10 +1,7 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Heute von 12:30 bis 15:00 Uhr, Wöllstein, 7 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/A5hYTdBCV6k">🎒🥾 Hiwweltour Wasserturm, Wöllstein</a><br>
-
-Micha, Di. 19.05.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 15 Teilnehmer (aktuell ausgebucht)<br>
+Micha, Morgen von 18:00 bis 22:00 Uhr, Wiesbaden, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/6RBS5C2x8Wo">Kleine Feierabend Wanderung und Weinstand-Ende am Di. 19.o5.o26</a><br>
 
 Siegfried, Mi. 20.05.2026 von 10:30 bis 17:00 Uhr, Bad Kreuznach, 1 Teilnehmer (3 Plätze frei)<br>
@@ -19,7 +16,7 @@ Thomas, Sa. 23.05.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (
 Tanja, Sa. 23.05.2026 von 19:00 bis 23:30 Uhr, 65510 Idstein, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/ausgehen/appointments/DxXpz8A3Htt">🎸 🎶 „Depeche Reload“ in der Idsteiner „Scheuer“</a><br>
 
-MichaeL, So. 24.05.2026 von 10:30 bis 18:00 Uhr, 67824 Feilbingert, 16 Teilnehmer (1 Platz frei)<br>
+MichaeL, So. 24.05.2026 von 10:30 bis 18:00 Uhr, 67824 Feilbingert, 15 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HjrGFSfx3KF">Geheimnisvoller Lemberg mit Bergwerksführung ⛏️</a><br>
 
 Anja, So. 24.05.2026 von 12:30 bis 15:30 Uhr, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
