@@ -1,6 +1,9 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
+Silke, Do. 28.05.2026 von 09:30 bis 12:30 Uhr, 56291 Pfalzfeld, 1 Teilnehmer (3 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/ZsMH55AuPTk">Traumschleifchen Baybachquellen</a><br>
+
 MichaeL, Sa. 30.05.2026 von 11:00 bis 18:00 Uhr, 65391 Lorch, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/bUiXdq9irSy">Rhein-Wisper-Glück, Lorchhausen "Die Perle der Wisper-Trails"</a><br>
 
@@ -22,7 +25,7 @@ Stefan, Di. 02.06.2026 von 18:00 bis 21:00 Uhr, 55218 Ingelheim am Rhein, 4 Teil
 Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 12 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Qio8dDwcBrV">Michels Vitaltour - Auf den Spuren des "Deutschen Michel"</a><br>
 
-Oliver, Fr. 05.06.2026 von 18:30 bis 23:00 Uhr, 55294 Bodenheim, 5 Teilnehmer (3 Plätze frei)<br>
+Oliver, Fr. 05.06.2026 von 18:30 bis 23:00 Uhr, 55294 Bodenheim, 6 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bNT43qD2ueo">Bodenheimer Albansfest</a><br>
 
 carama, Sa. 13.06.2026 von 09:27 bis 16:27 Uhr, 65189 Wiesbaden, 8 Teilnehmer <br>
