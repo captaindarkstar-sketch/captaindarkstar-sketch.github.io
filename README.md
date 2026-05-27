@@ -10,7 +10,7 @@ Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 11 Teilnehmer <br>
 Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
 
-Stefan, Mo. 01.06.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 6 Teilnehmer <br>
+Stefan, Mo. 01.06.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/6Y4fmVm9vJn">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
 Micha, Di. 02.06.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 11 Teilnehmer (3 Plätze frei)<br>
@@ -22,7 +22,7 @@ Stefan, Di. 02.06.2026 von 18:00 bis 21:00 Uhr, 55218 Ingelheim am Rhein, 4 Teil
 Caroline, Do. 04.06.2026 von 10:30 bis 16:00 Uhr, 55442 Stromberg, 12 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Qio8dDwcBrV">Michels Vitaltour - Auf den Spuren des "Deutschen Michel"</a><br>
 
-Oliver, Fr. 05.06.2026 von 18:30 bis 23:00 Uhr, 55294 Bodenheim, 2 Teilnehmer (6 Plätze frei)<br>
+Oliver, Fr. 05.06.2026 von 18:30 bis 23:00 Uhr, 55294 Bodenheim, 5 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bNT43qD2ueo">Bodenheimer Albansfest</a><br>
 
 carama, Sa. 13.06.2026 von 09:27 bis 16:27 Uhr, 65189 Wiesbaden, 8 Teilnehmer <br>
