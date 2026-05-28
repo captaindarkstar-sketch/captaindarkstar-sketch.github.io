@@ -1,19 +1,19 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Silke, Do. 28.05.2026 von 09:30 bis 12:30 Uhr, 56291 Pfalzfeld, 1 Teilnehmer (3 Plätze frei)<br>
+Silke, Do. 28.05.2026 von 09:30 bis 15:00 Uhr, 56291 Pfalzfeld, 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ZsMH55AuPTk">Traumschleifchen Baybachquellen</a><br>
 
 MichaeL, Sa. 30.05.2026 von 11:00 bis 18:00 Uhr, 65391 Lorch, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/bUiXdq9irSy">Rhein-Wisper-Glück, Lorchhausen "Die Perle der Wisper-Trails"</a><br>
 
-Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 11 Teilnehmer <br>
+Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 12 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/TNSWod9bm1C">Gonsenheimer Erdbeerfest</a><br>
 
-Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 4 Teilnehmer <br>
+Andre, So. 31.05.2026 von 10:00 bis 18:00 Uhr, 55452 Rümmelsheim, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iGj2mgf83iY">Hundefestival Burg Layen</a><br>
 
-Stefan, Mo. 01.06.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 7 Teilnehmer <br>
+Stefan, Mo. 01.06.2026 von 19:00 bis 22:00 Uhr, 65451 Kelsterbach, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/6Y4fmVm9vJn">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
 Micha, Di. 02.06.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 11 Teilnehmer (3 Plätze frei)<br>
