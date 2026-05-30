@@ -1,8 +1,14 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
+Claudine, Von Fr. 29.05.2026 18:00 bis So. 31.05.2026 20:00 Uhr, 55237 Flonheim, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/a1XQHuhbezp">Flonheimer Weinmarkt - Fr ab 20h Beat Mission</a><br>
+
 MichaeL, Sa. 30.05.2026 von 11:00 bis 18:00 Uhr, 65391 Lorch, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/bUiXdq9irSy">Rhein-Wisper-Glück, Lorchhausen "Die Perle der Wisper-Trails"</a><br>
+
+Claudine, Sa. 30.05.2026 von 13:00 bis 23:30 Uhr, 55452 Guldental, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/Xw7EPFEaVDY">Street Wine Festival Guldental - 19h Astrein80</a><br>
 
 Guido, Sa. 30.05.2026 von 15:00 bis 20:00 Uhr, 55124 Mainz, 11 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/TNSWod9bm1C">Gonsenheimer Erdbeerfest</a><br>
@@ -31,7 +37,7 @@ carama, Sa. 13.06.2026 von 09:27 bis 16:27 Uhr, 65189 Wiesbaden, 7 Teilnehmer <b
 Thomas, So. 14.06.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iZp4xb8hRkS">Blick auf Burg Falkenstein – Kupferberghütte Runde von Falkenstein</a><br>
 
-Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 8 Teilnehmer (1 Platz frei)<br>
+Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d4Ek4jnMbns">SUP 🏄‍♀️ KURS FÜR EINSTEIGER & NEUGIERIGE</a><br>
 
 Caroline, Sa. 27.06.2026 von 10:15 bis 17:00 Uhr, 55585 Altenbamberg, 10 Teilnehmer (aktuell ausgebucht)<br>
