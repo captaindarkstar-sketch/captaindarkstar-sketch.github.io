@@ -7,10 +7,10 @@ carama, Sa. 13.06.2026 von 09:27 bis 16:27 Uhr, 65189 Wiesbaden, 7 Teilnehmer <b
 Kateryna, Sa. 13.06.2026 von 09:40 bis 15:00 Uhr, 65343 Eltville am Rhein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/SJ9DaBtSRyD">Wanderung Rheinsteig 2. Etappe Schlangenbad-Kiedrich</a><br>
 
-Anja, Di. 16.06.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 4 Teilnehmer (11 Plätze frei)<br>
+Anja, Di. 16.06.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 5 Teilnehmer (10 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/VDLVV2rGY7i">Kleine Feierabendwanderung mit Weinstand-Ende am Di. 16.o6.2o26</a><br>
 
-MARIA, Sa. 20.06.2026 von 09:30 bis 12:30 Uhr, 55130 Mainz, 6 Teilnehmer (2 Plätze frei)<br>
+MARIA, Sa. 20.06.2026 von 09:30 bis 12:30 Uhr, 55130 Mainz, 7 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KwrBV67nHwg">Vogelstimmenwanderung</a><br>
 
 Thomas, Sa. 20.06.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
@@ -27,6 +27,9 @@ Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 9 Teilnehmer 
 
 Anja, So. 28.06.2026 von 10:30 bis 13:45 Uhr, Kirchheimbolanden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/SbJ34wpGoHF">🎒🥾 🔵 Schillerhain Rundweg, Kirchheimbolanden</a><br>
+
+Anja, Do. 02.07.2026 von 18:00 bis 21:30 Uhr, 55597 Gumbsheim, 2 Teilnehmer (4 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/gkgMvbz6ky8">Feieroomend,  Gumbsheim</a><br>
 
 Lookingforward, Sa. 04.07.2026 von 19:45 bis 23:00 Uhr, 55618 Simmertal, 1 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/XXAwcMA5QZ2">U2 Cover-Konzert mit Rechoice</a><br>
