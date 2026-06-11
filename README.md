@@ -19,10 +19,10 @@ Thomas, Sa. 20.06.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (
 Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d4Ek4jnMbns">SUP 🏄‍♀️ KURS FÜR EINSTEIGER & NEUGIERIGE</a><br>
 
-Caroline, Sa. 27.06.2026 von 10:15 bis 17:00 Uhr, 55585 Altenbamberg, 9 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, Sa. 27.06.2026 von 10:15 bis 17:00 Uhr, 55585 Altenbamberg, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DZy4NqBrgkZ">Wanderung zur "Ruine Altenbaumburg" im Naturpark Soonwald-Nahe mit Einkehr</a><br>
 
-Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 9 Teilnehmer (1 Platz frei)<br>
+Claudia, So. 28.06.2026 von 09:00 bis 18:00 Uhr, 55299 Nackenheim, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JSfcZsc7D1L">Fahrradtour von Nackenheim zum Altrheinsee bei Eich</a><br>
 
 Anja, So. 28.06.2026 von 10:30 bis 13:45 Uhr, Kirchheimbolanden, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -31,7 +31,7 @@ Anja, So. 28.06.2026 von 10:30 bis 13:45 Uhr, Kirchheimbolanden, 12 Teilnehmer (
 Anja, Do. 02.07.2026 von 18:00 bis 21:30 Uhr, 55597 Gumbsheim, 3 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/gkgMvbz6ky8">Feieroomend,  Gumbsheim</a><br>
 
-Lookingforward, Sa. 04.07.2026 von 19:45 bis 23:00 Uhr, 55618 Simmertal, 1 Teilnehmer (5 Plätze frei)<br>
+Lookingforward, Sa. 04.07.2026 von 19:45 bis 23:00 Uhr, 55618 Simmertal, 3 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/XXAwcMA5QZ2">U2 Cover-Konzert mit Rechoice</a><br>
 
 Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 17 Teilnehmer (aktuell ausgebucht)<br>
