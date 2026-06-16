@@ -1,13 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Claudine, Von Fr. 12.06.2026 19:00 bis Mo. 15.06.2026 21:00 Uhr, 55459 Aspisheim, 1 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/3mdfZETXWqm">Aspisheimer Kerb</a><br>
-
-Anja, Di. 16.06.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 11 Teilnehmer (4 Plätze frei)<br>
+Anja, Di. 16.06.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 13 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/VDLVV2rGY7i">Kleine Feierabendwanderung mit Weinstand-Ende am Di. 16.o6.2o26</a><br>
 
-Stefan, Di. 16.06.2026 von 19:00 bis 22:00 Uhr, 63303 Dreieich, 7 Teilnehmer <br>
+Stefan, Di. 16.06.2026 von 19:00 bis 22:00 Uhr, 63303 Dreieich, 11 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HaYU8yEdAez">Feierabendwanderung – Hofgut Neuhof & Untertor Dreieichenhain 🌳🏰</a><br>
 
 Stefan, Do. 18.06.2026 von 18:00 bis 21:30 Uhr, 55237 Flonheim, 5 Teilnehmer <br>
@@ -46,7 +43,7 @@ Anja, Fr. 10.07.2026 von 19:00 bis 22:00 Uhr, 55286 Wörrstadt, 12 Teilnehmer (a
 Anja, So. 09.08.2026 von 10:00 bis 14:00 Uhr, 55234 Wendelsheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Q436haZbNNN">Rundwanderweg Elsa Schmitt Turm, Wendelsheim</a><br>
 
-Ralf, Fr. 28.08.2026 von 18:00 bis 23:30 Uhr, 67583 Guntersblum, 2 Teilnehmer (8 Plätze frei)<br>
+Ralf, Fr. 28.08.2026 von 18:00 bis 23:30 Uhr, 67583 Guntersblum, 3 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Tnjw3Xxy6Ff">Guntersblumer Kellerwegfest 2026</a><br>
 
 Ralf, Sa. 29.08.2026 von 13:30 bis 23:30 Uhr, 67583 Guntersblum, 17 Teilnehmer (aktuell ausgebucht)<br>
