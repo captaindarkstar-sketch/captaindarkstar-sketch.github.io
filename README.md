@@ -1,16 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Di. 16.06.2026 von 18:00 bis 22:00 Uhr, 65201 Wiesbaden, 13 Teilnehmer (2 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/VDLVV2rGY7i">Kleine Feierabendwanderung mit Weinstand-Ende am Di. 16.o6.2o26</a><br>
-
-Stefan, Di. 16.06.2026 von 19:00 bis 22:00 Uhr, 63303 Dreieich, 11 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/HaYU8yEdAez">Feierabendwanderung – Hofgut Neuhof & Untertor Dreieichenhain 🌳🏰</a><br>
-
-Stefan, Do. 18.06.2026 von 18:00 bis 21:30 Uhr, 55237 Flonheim, 5 Teilnehmer <br>
+Stefan, Do. 18.06.2026 von 18:00 bis 21:30 Uhr, 55237 Flonheim, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4qDfXBCDn3k">Feierabendwanderung - Hiwweltour Aulheimer Tal</a><br>
 
-MARIA, Sa. 20.06.2026 von 09:30 bis 12:30 Uhr, 55130 Mainz, 8 Teilnehmer (aktuell ausgebucht)<br>
+MARIA, Sa. 20.06.2026 von 09:30 bis 12:30 Uhr, 55130 Mainz, 9 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/KwrBV67nHwg">Vogelstimmenwanderung</a><br>
 
 Thomas, Sa. 20.06.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
@@ -43,7 +37,7 @@ Anja, Fr. 10.07.2026 von 19:00 bis 22:00 Uhr, 55286 Wörrstadt, 12 Teilnehmer (a
 Anja, So. 09.08.2026 von 10:00 bis 14:00 Uhr, 55234 Wendelsheim, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Q436haZbNNN">Rundwanderweg Elsa Schmitt Turm, Wendelsheim</a><br>
 
-Ralf, Fr. 28.08.2026 von 18:00 bis 23:30 Uhr, 67583 Guntersblum, 3 Teilnehmer (7 Plätze frei)<br>
+Ralf, Fr. 28.08.2026 von 18:00 bis 23:30 Uhr, 67583 Guntersblum, 5 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Tnjw3Xxy6Ff">Guntersblumer Kellerwegfest 2026</a><br>
 
 Ralf, Sa. 29.08.2026 von 13:30 bis 23:30 Uhr, 67583 Guntersblum, 17 Teilnehmer (aktuell ausgebucht)<br>
