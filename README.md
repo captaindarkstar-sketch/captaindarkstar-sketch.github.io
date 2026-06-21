@@ -1,14 +1,11 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Lookingforward, Sa. 20.06.2026 von 20:00 bis 06:00 Uhr, Bad Kreuznach, 3 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/naturfreunde/appointments/NMyFK89oKt8">Sommersonnenwende - in der Natur erleben</a><br>
-
-Angela, So. 21.06.2026 von 10:00 bis 16:30 Uhr, 55276 Oppenheim, 9 Teilnehmer (1 Platz frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/d4Ek4jnMbns">SUP 🏄‍♀️ KURS FÜR EINSTEIGER & NEUGIERIGE</a><br>
-
 Jens, Mi. 24.06.2026 von 18:00 bis 20:00 Uhr, 55597 Wöllstein, 4 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JMpL9hzkCJf">Feierabendwanderung - Hiwweltour Wasserturm</a><br>
+
+Stefan, Do. 25.06.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 7 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/XTm4m8A2dxB">Feierabendwanderung Wald, Obst, Blühwiesen und ein Aussichtspunkt</a><br>
 
 MARIA, Do. 25.06.2026 von 19:30 bis 23:00 Uhr, Bodenheim, 1 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/63BvE91cay4">Simple Tina - Tina Turner Tribute Konzert</a><br>
@@ -16,7 +13,7 @@ MARIA, Do. 25.06.2026 von 19:30 bis 23:00 Uhr, Bodenheim, 1 Teilnehmer (1 Platz 
 Caroline, Sa. 27.06.2026 von 10:15 bis 17:00 Uhr, 55585 Altenbamberg, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DZy4NqBrgkZ">Wanderung zur "Ruine Altenbaumburg" im Naturpark Soonwald-Nahe mit Einkehr</a><br>
 
-Anja, So. 28.06.2026 von 09:30 bis 12:45 Uhr, Kirchheimbolanden, 12 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 28.06.2026 von 09:30 bis 12:45 Uhr, Kirchheimbolanden, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/SbJ34wpGoHF">🎒🥾 🔵 Schillerhain Rundweg, Kirchheimbolanden</a><br>
 
 Thomas, So. 28.06.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
@@ -40,16 +37,16 @@ Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 16 Te
 Anja, Fr. 10.07.2026 von 19:00 bis 22:00 Uhr, 55286 Wörrstadt, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/cnkwjp3SFmG">👥️🗓 Jour fixe Rheinhessen & Umgebung</a><br>
 
-Anja, Fr. 17.07.2026 von 18:00 bis 23:00 Uhr, Wallertheim, 4 Teilnehmer (2 Plätze frei)<br>
+Anja, Fr. 17.07.2026 von 18:00 bis 23:00 Uhr, Wallertheim, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/natur-umwelt/appointments/frLZyFxj8YL">🌼 📷 Besuch des Nachtigallenhofs,Wallertheim</a><br>
 
 Chris, Sa. 18.07.2026 von 10:30 bis 20:00 Uhr, 56729 Kehrig, 2 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/iwPYdJAFTsa">Traumpfad Monrealer Ritterschlag</a><br>
 
-Georg, So. 02.08.2026 von 14:00 bis 17:00 Uhr, 65201 Wiesbaden, 6 Teilnehmer (6 Plätze frei)<br>
+Georg, So. 02.08.2026 von 14:00 bis 17:00 Uhr, 65201 Wiesbaden, 7 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/U4Qj79E3Txz">Persönlichkeitsentwicklung bei Picknick und Plaudern</a><br>
 
-Anja, So. 09.08.2026 von 09:30 bis 13:30 Uhr, 55234 Wendelsheim, 9 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 09.08.2026 von 09:30 bis 13:30 Uhr, 55234 Wendelsheim, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Q436haZbNNN">Rundwanderweg Elsa Schmitt Turm, Wendelsheim</a><br>
 
 Ralf, Fr. 28.08.2026 von 18:00 bis 23:30 Uhr, 67583 Guntersblum, 5 Teilnehmer (5 Plätze frei)<br>
