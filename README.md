@@ -4,16 +4,16 @@
 Jens, Mi. 24.06.2026 von 18:00 bis 20:00 Uhr, 55597 Wöllstein, 4 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JMpL9hzkCJf">Feierabendwanderung - Hiwweltour Wasserturm</a><br>
 
-Stefan, Do. 25.06.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 7 Teilnehmer <br>
+Stefan, Do. 25.06.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/XTm4m8A2dxB">Feierabendwanderung Wald, Obst, Blühwiesen und ein Aussichtspunkt</a><br>
 
 MARIA, Do. 25.06.2026 von 19:30 bis 23:00 Uhr, Bodenheim, 1 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/63BvE91cay4">Simple Tina - Tina Turner Tribute Konzert</a><br>
 
-Caroline, Sa. 27.06.2026 von 10:15 bis 17:00 Uhr, 55585 Altenbamberg, 9 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DZy4NqBrgkZ">Wanderung zur "Ruine Altenbaumburg" im Naturpark Soonwald-Nahe mit Einkehr</a><br>
+Caroline, Sa. 27.06.2026 von 10:15 bis 17:00 Uhr, 55585 Altenbamberg, 8 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DZy4NqBrgkZ">Verschoben wg Hitzewelle! Wanderung zur "Ruine Altenbaumburg" im Naturpark Soonwald-Nahe mit Einkehr</a><br>
 
-Anja, So. 28.06.2026 von 09:30 bis 12:45 Uhr, Kirchheimbolanden, 13 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 28.06.2026 von 09:30 bis 12:45 Uhr, Kirchheimbolanden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/SbJ34wpGoHF">🎒🥾 🔵 Schillerhain Rundweg, Kirchheimbolanden</a><br>
 
 Thomas, So. 28.06.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
@@ -31,7 +31,7 @@ Anja, Do. 02.07.2026 von 18:00 bis 21:30 Uhr, 55597 Gumbsheim, 4 Teilnehmer (2 P
 Lookingforward, Sa. 04.07.2026 von 19:45 bis 23:00 Uhr, 55618 Simmertal, 3 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/XXAwcMA5QZ2">U2 Cover-Konzert mit Rechoice</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 16 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
 Anja, Fr. 10.07.2026 von 19:00 bis 22:00 Uhr, 55286 Wörrstadt, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -58,6 +58,6 @@ Ralf, Sa. 29.08.2026 von 13:30 bis 23:30 Uhr, 67583 Guntersblum, 17 Teilnehmer (
 Tanja, Sa. 19.09.2026 von 19:30 bis 23:00 Uhr, 65510 Idstein, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/NubLZ1LDo3j">🎶 "Baba Explosion" Abba Tribute "Scheuer" Idstein 19.9.</a><br>
 
-Evi, Fr. 25.09.2026 von 19:30 bis 23:30 Uhr, Mainz, 6 Teilnehmer (aktuell ausgebucht)<br>
+Evi, Fr. 25.09.2026 von 19:30 bis 23:30 Uhr, Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/MKXHGvK3t2E">Kabarettist Alfons im Frankfurter Hof</a><br>
 
