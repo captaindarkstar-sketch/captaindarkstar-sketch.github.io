@@ -22,7 +22,7 @@ Micha, Di. 30.06.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 14 Teilnehmer (aktuell
 Anja, Do. 02.07.2026 von 18:00 bis 21:30 Uhr, 55597 Gumbsheim, 4 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/gkgMvbz6ky8">Feieroomend,  Gumbsheim</a><br>
 
-Stefan, Do. 02.07.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 5 Teilnehmer <br>
+Stefan, Do. 02.07.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 9 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iiC6Wz3DGKy">Feierabendwanderung Wald, Obst, Blühwiesen und ein Aussichtspunkt</a><br>
 
 Lookingforward, Sa. 04.07.2026 von 19:45 bis 23:00 Uhr, 55618 Simmertal, 3 Teilnehmer (3 Plätze frei)<br>
