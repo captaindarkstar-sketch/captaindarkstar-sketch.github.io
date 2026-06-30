@@ -10,7 +10,7 @@ Anja, Do. 02.07.2026 von 18:00 bis 21:30 Uhr, 55597 Gumbsheim, 4 Teilnehmer (2 P
 Stefan, Do. 02.07.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 13 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iiC6Wz3DGKy">Feierabendwanderung Wald, Obst, Blühwiesen und ein Aussichtspunkt</a><br>
 
-Jacqueline, Fr. 03.07.2026 von 17:30 bis 22:30 Uhr, 55116 Mainz, 2 Teilnehmer (6 Plätze frei)<br>
+Jacqueline, Fr. 03.07.2026 von 17:30 bis 22:30 Uhr, 55116 Mainz, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/TZvdiZe9itg">Spieleabend am Mainzstrand</a><br>
 
 Iris, Sa. 04.07.2026 von 18:00 bis 02:00 Uhr, 55411 Bingen am Rhein, 5 Teilnehmer (3 Plätze frei)<br>
@@ -19,7 +19,7 @@ Iris, Sa. 04.07.2026 von 18:00 bis 02:00 Uhr, 55411 Bingen am Rhein, 5 Teilnehme
 Lookingforward, Sa. 04.07.2026 von 19:45 bis 23:00 Uhr, 55618 Simmertal, 3 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/XXAwcMA5QZ2">U2 Cover-Konzert mit Rechoice</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 14 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
 Thomas, So. 05.07.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
