@@ -1,13 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Micha, Di. 30.06.2026 von 18:00 bis 22:00 Uhr, Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/EhctHcZxVa1">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 30.o6.o26</a><br>
-
-Anja, Do. 02.07.2026 von 18:00 bis 21:30 Uhr, 55597 Gumbsheim, 4 Teilnehmer (2 Plätze frei)<br>
+Anja, Do. 02.07.2026 von 18:00 bis 21:30 Uhr, 55597 Gumbsheim, 3 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/gkgMvbz6ky8">Feieroomend,  Gumbsheim</a><br>
 
-Stefan, Do. 02.07.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 13 Teilnehmer <br>
+Stefan, Do. 02.07.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 16 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iiC6Wz3DGKy">Feierabendwanderung Wald, Obst, Blühwiesen und ein Aussichtspunkt</a><br>
 
 Jacqueline, Fr. 03.07.2026 von 17:30 bis 22:30 Uhr, 55116 Mainz, 3 Teilnehmer (5 Plätze frei)<br>
@@ -19,7 +16,7 @@ Iris, Sa. 04.07.2026 von 18:00 bis 02:00 Uhr, 55411 Bingen am Rhein, 5 Teilnehme
 Lookingforward, Sa. 04.07.2026 von 19:45 bis 23:00 Uhr, 55618 Simmertal, 3 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/konzerte/appointments/XXAwcMA5QZ2">U2 Cover-Konzert mit Rechoice</a><br>
 
-Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 13 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, So. 05.07.2026 von 10:30 bis 18:00 Uhr, 55571 Odernheim am Glan, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/JGJWYe17KeC">Klosterruine Disibodenberg: „Auf den Spuren von Hildegard von Bingen“ mit öffentlicher Führung.</a><br>
 
 Thomas, So. 05.07.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 1 Teilnehmer (6 Plätze frei)<br>
