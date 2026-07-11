@@ -1,10 +1,7 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Fr. 10.07.2026 von 19:00 bis 22:00 Uhr, 55286 Wörrstadt, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/cnkwjp3SFmG">👥️🗓 Jour fixe Rheinhessen & Umgebung</a><br>
-
-Markus, Sa. 11.07.2026 von 10:00 bis 16:00 Uhr, 67824 Feilbingert, 6 Teilnehmer (2 Plätze frei)<br>
+Markus, Sa. 11.07.2026 von 10:00 bis 16:00 Uhr, 67824 Feilbingert, 5 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/C1QqeTU9hfS">Vitaltour Geheimnisvoller Lemberg</a><br>
 
 Thomas, So. 12.07.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 2 Teilnehmer (6 Plätze frei)<br>
@@ -12,6 +9,12 @@ Thomas, So. 12.07.2026 von 11:00 bis 17:00 Uhr, 67808 Ransweiler, 2 Teilnehmer (
 
 Micha, Di. 14.07.2026 von 18:00 bis 22:30 Uhr, Wiesbaden, 16 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/7Z8FaAJaHgX">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 14.o7.o26</a><br>
+
+Stefan, Di. 14.07.2026 von 18:30 bis 21:30 Uhr, 55270 Ober-Olm, 3 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/1hucsocYA35">Feierabendwanderung durch den Ober-Olmer Wald & Flugplatz Finthen</a><br>
+
+Stefan, Do. 16.07.2026 von 19:00 bis 22:00 Uhr, 63150 Heusenstamm, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/cBmM1PttRL7">🥾 Feierabendwanderung  „Schloss Heusenstamm – Hofgut Patershausen Runde“</a><br>
 
 Anja, Fr. 17.07.2026 von 18:00 bis 23:00 Uhr, Wallertheim, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/natur-umwelt/appointments/frLZyFxj8YL">🌼 📷 Besuch des Nachtigallenhofs,Wallertheim</a><br>
