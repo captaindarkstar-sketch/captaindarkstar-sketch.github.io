@@ -1,29 +1,23 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, Fr. 24.07.2026 von 16:30 bis 19:00, Wiesbaden, 7 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/h6EUfh6Njd6">👥️🤔 Escape Room auf der Rettbergsaue</a><br>
-
-Caroline, Fr. 24.07.2026 von 17:30 bis 21:00, 55271 Stadecken-Elsheim, 4 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/radsport/appointments/4c5XFC4nPi3">Feierabend E-Bike-Tour "Obstroute" (Westschleife)</a><br>
-
-Fraset, Fr. 24.07.2026 von 19:00 bis 00:00, 55411 Bingen am Rhein, 6 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/VJx2TRTEPCa">Binger Sommernacht 2026 am Freitag mit der Band Couch & Cocktail</a><br>
-
-Micha S., Sa. 25.07.2026 von 18:00 bis 23:30, 55411 Bingen am Rhein, 14 Teilnehmer (1 Platz frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/eboFjeh1V6Y">Binger Sommernacht 2026</a><br>
-
 Thomas, So. 26.07.2026 von 11:00 bis 17:00, 67808 Ransweiler, 1 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/MhenpwEJefn">Steinbruch Rockenhausen – Aussicht auf den Steinbruch Rockenhausen Runde von Nordpfälzer Bergland</a><br>
 
-Micha, Di. 28.07.2026 von 18:00 bis 22:00, Wiesbaden, 9 Teilnehmer (3 Plätze frei)<br>
+Stefan, Mo. 27.07.2026 von 19:00 bis 22:00, 65479 Raunheim, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/PpF5waq1cLe">Feierabendwanderung Staustufe Eddersheim-Flörsheimer Mainufer</a><br>
+
+Micha, Di. 28.07.2026 von 18:00 bis 22:00, Wiesbaden, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4M31qkejxQU">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 28.o7.o26</a><br>
 
-Stefan, Di. 28.07.2026 von 18:00 bis 21:30, Mainz, 6 Teilnehmer <br>
+Stefan, Di. 28.07.2026 von 18:00 bis 21:30, Mainz, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/MSXRJXxFHnH">🌇 Feierabendwanderung: große Brückentour</a><br>
 
 Andy, Di. 28.07.2026 von 18:30 bis 23:00, 65396 Walluf, 2 Teilnehmer (38 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/spiele/appointments/4zUDNyAQjVT">Die Rheingauer Brettspielfreunde Clubnight in Walluf</a><br>
+
+Stefan, Do. 30.07.2026 von 19:00 bis 22:00, 55270 Ober-Olm, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/6KyimqT6ZST">Feierabendwanderung durch den Ober-Olmer Wald & Flugplatz Finthen</a><br>
 
 Chris, Fr. 31.07.2026 von 18:00 bis 23:00, 55237 Flonheim, 1 Teilnehmer (9 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/eSrnW9MJkFY">Rund ums Aulheimer Tälchen</a><br>
