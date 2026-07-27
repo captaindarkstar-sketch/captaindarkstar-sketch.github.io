@@ -1,22 +1,19 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Thomas, So. 26.07.2026 von 11:00 bis 17:00, 67808 Ransweiler, 1 Teilnehmer (7 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/MhenpwEJefn">Steinbruch Rockenhausen – Aussicht auf den Steinbruch Rockenhausen Runde von Nordpfälzer Bergland</a><br>
-
-Stefan, Mo. 27.07.2026 von 19:00 bis 22:00, 65479 Raunheim, 1 Teilnehmer <br>
+Stefan, Mo. 27.07.2026 von 19:00 bis 22:00, 65479 Raunheim, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/PpF5waq1cLe">Feierabendwanderung Staustufe Eddersheim-Flörsheimer Mainufer</a><br>
 
 Micha, Di. 28.07.2026 von 18:00 bis 22:00, Wiesbaden, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4M31qkejxQU">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 28.o7.o26</a><br>
 
-Stefan, Di. 28.07.2026 von 18:00 bis 21:30, Mainz, 7 Teilnehmer <br>
+Stefan, Di. 28.07.2026 von 18:00 bis 21:30, Mainz, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/MSXRJXxFHnH">🌇 Feierabendwanderung: große Brückentour</a><br>
 
-Andy, Di. 28.07.2026 von 18:30 bis 23:00, 65396 Walluf, 2 Teilnehmer (38 Plätze frei)<br>
+Andy, Di. 28.07.2026 von 18:30 bis 23:00, 65396 Walluf, 3 Teilnehmer (37 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/spiele/appointments/4zUDNyAQjVT">Die Rheingauer Brettspielfreunde Clubnight in Walluf</a><br>
 
-Stefan, Do. 30.07.2026 von 19:00 bis 22:00, 55270 Ober-Olm, 1 Teilnehmer <br>
+Stefan, Do. 30.07.2026 von 19:00 bis 22:00, 55270 Ober-Olm, 7 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/6KyimqT6ZST">Feierabendwanderung durch den Ober-Olmer Wald & Flugplatz Finthen</a><br>
 
 Chris, Fr. 31.07.2026 von 18:00 bis 23:00, 55237 Flonheim, 1 Teilnehmer (9 Plätze frei)<br>
@@ -49,7 +46,7 @@ Anja, So. 30.08.2026 von 10:30 bis 13:30, Kirchheimbolanden, 14 Teilnehmer (aktu
 Tanja, Sa. 05.09.2026 von 18:30 bis 23:00, 65510 Idstein, 7 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/YRZuZrcP1cA">🎸 "Pfund" in der SCHEUER Idstein 5.9.26  🎶</a><br>
 
-Anja, So. 06.09.2026 von 10:45 bis 16:30, 55232 Alzey, 10 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 06.09.2026 von 10:45 bis 16:30, 55232 Alzey, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/GcSucMaAdPW">🎒🥾🔴🍷 Alzeyer Wingertshäuschen-Wanderung</a><br>
 
 Tanja, Sa. 19.09.2026 von 19:30 bis 23:00, 65510 Idstein, 11 Teilnehmer (aktuell ausgebucht)<br>
