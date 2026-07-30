@@ -1,10 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Stefan, Do. 30.07.2026 von 19:00 bis 22:00, 55270 Ober-Olm, 9 Teilnehmer <br>
+Stefan, Do. 30.07.2026 von 19:00 bis 22:00, 55270 Ober-Olm, 8 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/6KyimqT6ZST">Feierabendwanderung durch den Ober-Olmer Wald & Flugplatz Finthen</a><br>
 
-Chris, Fr. 31.07. von 18:00 bis 23:00, 55237 Flonheim, 1 Teilnehmer (9 Plätze frei)<br>
+Chris, Fr. 31.07.2026 von 18:00 bis 23:00, 55237 Flonheim, 1 Teilnehmer (9 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/eSrnW9MJkFY">Rund ums Aulheimer Tälchen</a><br>
 
 Anja, So. 02.08. von 09:30 bis 13:15, 67305 Ramsen, 5 Teilnehmer (aktuell ausgebucht)<br>
@@ -13,8 +13,11 @@ Anja, So. 02.08. von 09:30 bis 13:15, 67305 Ramsen, 5 Teilnehmer (aktuell ausgeb
 Georg, So. 02.08. von 14:00 bis 17:00, 65201 Wiesbaden, 7 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/U4Qj79E3Txz">Persönlichkeitsentwicklung bei Picknick und Plaudern</a><br>
 
-Stefan, Mo. 03.08. von 18:00 bis 22:00, 55124 Mainz, 3 Teilnehmer <br>
+Stefan, Mo. 03.08. von 18:00 bis 22:00, 55124 Mainz, 5 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/1MiCPSb5Q23">Feierabendwanderung: Mainzer Sanddüne, Rhein & Lennebergwald 🌲🌊</a><br>
+
+Stefan, Do. 06.08. von 19:00 bis 22:00, 65451 Kelsterbach, 7 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/YtYBTuN47wm">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
 
 MichaeL, Fr. 07.08. von 18:00 bis 22:30, Wöllstein, 7 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iw47v6qtGgY">Entspannte Hiwweltour Wasserturm zum Wochenausklang</a><br>
