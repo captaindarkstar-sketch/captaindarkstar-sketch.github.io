@@ -1,14 +1,11 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Stefan, Do. 06.08.2026 von 19:00 bis 22:00, 65451 Kelsterbach, 12 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/YtYBTuN47wm">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
-
-MichaeL, Fr. 07.08.2026 von 18:00 bis 22:30, Wöllstein, 7 Teilnehmer (1 Platz frei)<br>
+MichaeL, Fr. 07.08.2026 von 18:00 bis 22:30, Wöllstein, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/iw47v6qtGgY">Entspannte Hiwweltour Wasserturm zum Wochenausklang</a><br>
 
-Anja, So. 09.08. von 09:30 bis 13:30, 55234 Wendelsheim, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Q436haZbNNN">🎒🥾🔴 🌭 Rundwanderweg Elsa Schmitt Turm, Wendelsheim</a><br>
+Anja, So. 09.08. von 09:30 bis 13:30, 55234 Wendelsheim, 9 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Q436haZbNNN">🎒🥾🔴 🌭 Rundwanderweg Elsa Schmitt Turm, Wendelsheim * Änderung: angepasste Tour</a><br>
 
 Stefan, Mo. 10.08. von 19:00 bis 22:00, Zotzenheim, 6 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/4E6S8YiQ7o5">Feierabendwanderung Zotzenheimer Horn</a><br>
@@ -16,7 +13,7 @@ Stefan, Mo. 10.08. von 19:00 bis 22:00, Zotzenheim, 6 Teilnehmer <br>
 Micha, Di. 11.08. von 18:00 bis 22:00, Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/D89i1fVtMzv">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 11.o8.o26</a><br>
 
-Karin, Mi. 12.08. von 18:30 bis 03:00, 55595 Roxheim, 2 Teilnehmer (6 Plätze frei)<br>
+Karin, Mi. 12.08. von 18:30 bis 03:00, 55595 Roxheim, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/2RWmczENegw">Kleine (Nacht)-Wanderung, SoFi, Perseiden und Picknick</a><br>
 
 Achim, So. 16.08. von 10:00 bis 15:00, 55546 Neu-Bamberg, 4 Teilnehmer (2 Plätze frei)<br>
