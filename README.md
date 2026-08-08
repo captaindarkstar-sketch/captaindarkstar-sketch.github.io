@@ -1,10 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-MichaeL, Fr. 07.08.2026 von 18:00 bis 22:30, Wöllstein, 8 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/iw47v6qtGgY">Entspannte Hiwweltour Wasserturm zum Wochenausklang</a><br>
+Stefan, Sa. 08.08.2026 von 09:00 bis 12:00, 64546 Mörfelden-Walldorf, 2 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/Uag5peAwyWG">Wanderung am Mönchbruch</a><br>
 
-Anja, So. 09.08. von 09:30 bis 13:30, 55234 Wendelsheim, 9 Teilnehmer (aktuell ausgebucht)<br>
+Anja, So. 09.08.2026 von 09:30 bis 13:30, 55234 Wendelsheim, 8 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Q436haZbNNN">🎒🥾🔴 🌭 Rundwanderweg Elsa Schmitt Turm, Wendelsheim * Änderung: angepasste Tour</a><br>
 
 Stefan, Mo. 10.08. von 19:00 bis 22:00, Zotzenheim, 6 Teilnehmer <br>
@@ -16,7 +16,7 @@ Micha, Di. 11.08. von 18:00 bis 22:00, Wiesbaden, 14 Teilnehmer (aktuell ausgebu
 Karin, Mi. 12.08. von 18:30 bis 03:00, 55595 Roxheim, 3 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/2RWmczENegw">Kleine (Nacht)-Wanderung, SoFi, Perseiden und Picknick</a><br>
 
-Achim, So. 16.08. von 10:00 bis 15:00, 55546 Neu-Bamberg, 4 Teilnehmer (2 Plätze frei)<br>
+Achim, So. 16.08. von 10:00 bis 15:00, 55546 Neu-Bamberg, 5 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ZzQVmXruTVT">Fotowanderung – Hiwweltour Heideblick</a><br>
 
 Caroline, Sa. 22.08. von 16:00 bis 21:00, 55599 Siefersheim, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -45,6 +45,9 @@ Anja, So. 06.09. von 10:45 bis 16:30, 55232 Alzey, 12 Teilnehmer (aktuell ausgeb
 
 Tanja, Sa. 19.09. von 19:30 bis 23:00, 65510 Idstein, 10 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/NubLZ1LDo3j">🎶 "Baba Explosion" Abba Tribute "Scheuer" Idstein 19.9.</a><br>
+
+MichaeL, Fr. 25.09. von 19:30 bis 23:30, 55116 Mainz, 6 Teilnehmer (2 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/62gxpZRnuya">Mainz leuchtet 💡2️⃣0️⃣2️⃣6️⃣💡</a><br>
 
 Evi, Fr. 25.09. von 19:30 bis 23:30, Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/MKXHGvK3t2E">Kabarettist Alfons im Frankfurter Hof</a><br>
