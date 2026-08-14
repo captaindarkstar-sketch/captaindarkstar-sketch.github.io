@@ -1,23 +1,32 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Karin, Mi. 12.08.2026 von 18:30 bis 03:00, 55595 Roxheim, 3 Teilnehmer (5 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/2RWmczENegw">Kleine (Nacht)-Wanderung, SoFi, Perseiden und Picknick</a><br>
-
-Caroline, Sa. 15.08. von 09:30 bis 15:00, 55271 Stadecken-Elsheim, 3 Teilnehmer (1 Platz frei)<br>
+Caroline, Sa. 15.08.2026 von 09:30 bis 15:00, 55271 Stadecken-Elsheim, 4 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/radsport/appointments/cfxqdRS8frq">🍇 Roter Hang & Rheinblick 🚲 E-Bike-Genusstour mit Mittagsstopp auf der Sonnenterrasse ☀️</a><br>
 
 Achim, So. 16.08. von 10:00 bis 15:00, 55546 Neu-Bamberg, 3 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ZzQVmXruTVT">Fotowanderung – Hiwweltour Heideblick</a><br>
 
-Tobias, So. 16.08. von 12:00 bis 14:00, 65779 Kelkheim (Taunus), 1 Teilnehmer (11 Plätze frei)<br>
+Tobias, So. 16.08. von 12:00 bis 14:00, 65779 Kelkheim (Taunus), 1 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/HLNW1CZpHdt">Fussballgolf - zum halben Preis</a><br>
+
+Stefan, Di. 18.08. von 18:00 bis 22:00, 55270 Zornheim, 8 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/eKrhWZeXd9w">Feierabendwanderung durch die Zornheimer Weinberge 🍇🥾</a><br>
 
 Marco, Mi. 19.08. von 18:00 bis 21:00, 55411 Bingen am Rhein, 1 Teilnehmer (8 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/96cSqgFSGt2">Bergfest auf dem Rochusfest</a><br>
 
+Stefan, Do. 20.08. von 18:00 bis 22:00, 63263 Neu-Isenburg, 2 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/97GTomSihhT">Feierabendwanderung Tiroler Weiher – Königsbach-Runde ab Neu-Isenburg</a><br>
+
 Caroline, Sa. 22.08. von 16:00 bis 21:00, 55599 Siefersheim, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/iqNpLsBZaSz">🌅 Hiwweltour Heideblick – Dem Sonnenuntergang entgegen</a><br>
+
+Stefan, Di. 25.08. von 18:00 bis 22:00, Mainz, 5 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/ekJeHxu5NqH">🌇 Feierabendwanderung: große Brückentour</a><br>
+
+Micha, Di. 25.08. von 18:00 bis 22:30, Wiesbaden, 14 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/PN6uGWq9krt">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 25.o8.o26</a><br>
 
 Anja, Do. 27.08. von 18:45 bis 21:30, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d1duSpjXfuv">👥🎶🌮 Donnerstags in der City, Ingelheim</a><br>
@@ -28,7 +37,7 @@ Ralf, Fr. 28.08. von 18:00 bis 23:30, 67583 Guntersblum, 7 Teilnehmer (3 Plätze
 Marco, Sa. 29.08. von 11:00 bis 18:00, 55116 Mainz, 9 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Qtxj5vfsWtL">Theaterfest Mainz</a><br>
 
-Ralf, Sa. 29.08. von 13:30 bis 23:30, 67583 Guntersblum, 15 Teilnehmer (aktuell ausgebucht)<br>
+Ralf, Sa. 29.08. von 13:30 bis 23:30, 67583 Guntersblum, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/essen-trinken/appointments/8DUS3wEVYp1">Kellerweg-Fest Guntersblum 2026</a><br>
 
 Anja, So. 30.08. von 10:30 bis 13:30, Kirchheimbolanden, 14 Teilnehmer (aktuell ausgebucht)<br>
@@ -52,6 +61,6 @@ Evi, Fr. 25.09. von 19:30 bis 23:30, Mainz, 5 Teilnehmer (aktuell ausgebucht)<br
 MichaeL, So. 04.10. von 10:00 bis 19:00, 55294 Bodenheim, 13 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/UTZkrwhv1Ab">Zwibbelkuchewandertag in der VB Bodenheim</a><br>
 
-Marco, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 9 Teilnehmer (aktuell ausgebucht)<br>
+Marco, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JGKTY58DD8a">Friedhofsführung Mainzer Hauptfriedhof</a><br>
 
