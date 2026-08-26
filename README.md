@@ -1,34 +1,22 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Caroline, Sa. 22.08.2026 von 16:00 bis 21:00, 55599 Siefersheim, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/iqNpLsBZaSz">🌅 Hiwweltour Heideblick – Dem Sonnenuntergang entgegen</a><br>
-
-Lisa, So. 23.08.2026 von 15:00 bis 20:00, Mainz, 3 Teilnehmer (7 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/radsport/appointments/8jA6JyMXwDN">Radeln am Rhein und ein leckeres Eis dazwischen</a><br>
-
-Stefan, Di. 25.08. von 18:00 bis 22:00, Mainz, 8 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/ekJeHxu5NqH">🌇 Feierabendwanderung: große Brückentour</a><br>
-
-Micha, Di. 25.08. von 18:00 bis 22:30, Wiesbaden, 16 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/PN6uGWq9krt">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 25.o8.o26</a><br>
-
-Siegfried, Mi. 26.08. von 10:40 bis 17:00, Bad Kreuznach, 2 Teilnehmer (4 Plätze frei)<br>
+Siegfried, Mi. 26.08.2026 von 10:40 bis 17:00, Bad Kreuznach, 2 Teilnehmer (4 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/aEmeA79Ewh7">Bad Kreuznach Runde</a><br>
 
-Stefan, Do. 27.08. von 18:00 bis 22:00, 63263 Neu-Isenburg, 9 Teilnehmer <br>
+Stefan, Do. 27.08.2026 von 18:00 bis 22:00, 63263 Neu-Isenburg, 12 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/2bxx74xNrFj">Feierabendwanderung Luftbrückendenkmal</a><br>
 
-Anja, Do. 27.08. von 18:45 bis 21:30, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Do. 27.08.2026 von 18:45 bis 21:30, Ingelheim am Rhein, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/d1duSpjXfuv">👥🎶🌮 Donnerstags in der City, Ingelheim</a><br>
 
-Ralf, Fr. 28.08. von 18:00 bis 23:30, 67583 Guntersblum, 10 Teilnehmer (aktuell ausgebucht)<br>
+Ralf, Fr. 28.08. von 18:00 bis 23:30, 67583 Guntersblum, 9 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Tnjw3Xxy6Ff">Guntersblumer Kellerwegfest 2026</a><br>
 
-Marco, Sa. 29.08. von 11:00 bis 18:00, 55116 Mainz, 7 Teilnehmer (2 Plätze frei)<br>
+Marco, Sa. 29.08. von 12:00 bis 18:00, 55116 Mainz, 6 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/Qtxj5vfsWtL">Theaterfest Mainz</a><br>
 
-Ralf, Sa. 29.08. von 13:30 bis 23:30, 67583 Guntersblum, 14 Teilnehmer (aktuell ausgebucht)<br>
+Ralf, Sa. 29.08. von 13:30 bis 23:30, 67583 Guntersblum, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/essen-trinken/appointments/8DUS3wEVYp1">Kellerweg-Fest Guntersblum 2026</a><br>
 
 Anja, So. 30.08. von 10:30 bis 13:30, Kirchheimbolanden, 14 Teilnehmer (aktuell ausgebucht)<br>
@@ -37,11 +25,20 @@ Anja, So. 30.08. von 10:30 bis 13:30, Kirchheimbolanden, 14 Teilnehmer (aktuell 
 Stefan, Mo. 31.08. von 18:00 bis 22:00, Nierstein, 21 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/BWP9egNBQRM">Feierabendwanderung Nierstein - Oppenheim 🍇🥾</a><br>
 
-Chris, Sa. 05.09. von 10:30 bis 20:00, 56729 Kehrig, 1 Teilnehmer <br>
+Caroline, Sa. 05.09. von 09:45 bis 18:00, 55271 Stadecken-Elsheim, 5 Teilnehmer (1 Platz frei)<br>
+<a href="https://community.spontacts.com/community/radsport/appointments/gmWtgiRZNFq">E-Bike-Tour & Fähre zum "Allendorf am Rhein" 🏖</a><br>
+
+Chris, Sa. 05.09. von 10:30 bis 20:00, 56729 Kehrig, 1 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/9brtZerVNPX">Traumpfad Monrealer Ritterschlag</a><br>
+
+Thomas, Sa. 05.09. von 12:00 bis 18:00, 55126 Mainz, 4 Teilnehmer (6 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/Qb4yrPYX1Pi">Tag der offenen Tür Flugplatz Mainz-Finthen</a><br>
 
 Tanja, Sa. 05.09. von 18:30 bis 23:00, 65510 Idstein, 5 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/YRZuZrcP1cA">🎸 "Pfund" in der SCHEUER Idstein 5.9.26  🎶</a><br>
+
+Chris, So. 06.09. von 10:30 bis 19:00, Trimbs, 1 Teilnehmer (7 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/hnMFjLqzm7C">Traumpfad Nette-Schieferpfad</a><br>
 
 Anja, So. 06.09. von 10:45 bis 16:30, 55232 Alzey, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/GcSucMaAdPW">🎒🥾🔴🍷 Alzeyer Wingertshäuschen-Wanderung</a><br>
@@ -58,7 +55,7 @@ MichaeL, Fr. 25.09. von 19:30 bis 23:30, 55116 Mainz, 10 Teilnehmer (aktuell aus
 Evi, Fr. 25.09. von 19:30 bis 23:30, Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/MKXHGvK3t2E">Kabarettist Alfons im Frankfurter Hof</a><br>
 
-MichaeL, So. 04.10. von 10:00 bis 19:00, 55294 Bodenheim, 15 Teilnehmer (aktuell ausgebucht)<br>
+MichaeL, So. 04.10. von 10:00 bis 19:00, 55294 Bodenheim, 14 Teilnehmer (1 Platz frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/UTZkrwhv1Ab">Zwibbelkuchewandertag in der VB Bodenheim</a><br>
 
 Marco, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 11 Teilnehmer (aktuell ausgebucht)<br>
