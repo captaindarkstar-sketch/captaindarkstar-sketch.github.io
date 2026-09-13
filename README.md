@@ -1,7 +1,7 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Thorsten, So. 13.09.2026 von 15:30 bis 19:00, 55116 Mainz, 6 Teilnehmer <br>
+Thorsten, So. 13.09.2026 von 15:30 bis 19:00, 55116 Mainz, 5 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/kino-film/appointments/hbsCiqHq11W">Kinofest- die Odyssee</a><br>
 
 Lisa, Do. 17.09. von 18:00 bis 21:00, Mainz, 1 Teilnehmer (9 Plätze frei)<br>
@@ -27,6 +27,9 @@ MichaeL, Fr. 25.09. von 19:30 bis 23:30, 55116 Mainz, 10 Teilnehmer (aktuell aus
 
 Evi, Fr. 25.09. von 19:30 bis 23:30, Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/kunst-kultur/appointments/MKXHGvK3t2E">Kabarettist Alfons im Frankfurter Hof</a><br>
+
+Anja, Do. 01.10. 00:00 bis Sa. 31.10. 23:59, Virtuell / Online, 7 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/foto/appointments/Vo8mRZucNnF">📷 Tiere und Pflanzen des Waldes</a><br>
 
 MichaeL, So. 04.10. von 10:00 bis 19:00, 55294 Bodenheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/UTZkrwhv1Ab">Zwibbelkuchewandertag in der VB Bodenheim</a><br>
