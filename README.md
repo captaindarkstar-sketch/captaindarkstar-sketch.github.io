@@ -1,37 +1,28 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Siegfried, Mi. 23.09.2026 von 16:00 bis 19:00, Mainz, 1 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/hHzMjcymuWp">Afterwork Treffen</a><br>
+Kai, Mi. 30.09.2026 von 23:29 bis 23:59, Stromberg, 2 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/radsport/appointments/cbYdQViQqxR">Flowtrail Stromberg 🚵‍♀️🚵‍♂️</a><br>
 
-Anja, Fr. 25.09. von 16:00 bis 18:30, Ockenheim, 8 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/eDki6xqQ6Jt">👥️ ⚪️ Picknicken & Boule spielen, Ockenheim</a><br>
-
-MichaeL, Fr. 25.09. von 19:30 bis 23:30, 55116 Mainz, 10 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/62gxpZRnuya">Mainz leuchtet 2️⃣0️⃣🏮2️⃣6️⃣</a><br>
-
-Evi, Fr. 25.09. von 19:30 bis 23:30, Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/kunst-kultur/appointments/MKXHGvK3t2E">Kabarettist Alfons im Frankfurter Hof</a><br>
-
-Marco, Sa. 26.09. von 19:00 bis 23:30, 55218 Ingelheim am Rhein, 7 Teilnehmer (2 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/ausgehen/appointments/JUm9GydM4fU">Rotweinfest Ingelheim</a><br>
-
-Chris, So. 27.09. von 10:30 bis 18:00, 56154 Boppard, 2 Teilnehmer (6 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/ZKnQB2J8LJs">Traumschleife Elfenlay</a><br>
-
-Anja, So. 27.09. von 10:30 bis 14:30, 55286 Sulzheim, 8 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/Ub2QM2jEkBY">🎒🥾🍏 Das Grüne Klassenzimmer, Sulzheim (mit Apfelpflücken)</a><br>
-
-Ina, So. 27.09. von 18:00 bis 20:00, Ingelheim am Rhein, 1 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/anDjYR22SaE">Schlender-Weinprobe auf dem Ingelheimer Rotweinfest</a><br>
+Stefan, Do. 01.10. von 18:00 bis 21:00, 55286 Wörrstadt, 6 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/UxCE2KUvU2D">Feierabendwanderung "Weinbergstürme in Ensheim und Spiesheim"</a><br>
 
 MichaeL, So. 04.10. von 10:00 bis 19:00, 55294 Bodenheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/UTZkrwhv1Ab">Zwibbelkuchewandertag in der VB Bodenheim</a><br>
 
-Anja, So. 11.10. von 10:30 bis 15:00, 55237 Flonheim, 6 Teilnehmer (6 Plätze frei)<br>
+Micha, Di. 06.10. von 18:00 bis 22:30, Wiesbaden, 11 Teilnehmer (3 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/1MpUQT3c2Gp">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o6.1o.o26</a><br>
+
+Stefan, Di. 06.10. von 19:00 bis 22:00, 65451 Kelsterbach, 2 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/CjSMkatVtix">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
+
+Anja, So. 11.10. von 10:30 bis 15:00, 55237 Flonheim, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DMqu6NYXn2b">🎒🥾 Hiwweltour Aulheimer Tal</a><br>
 
-Marco, Fr. 16.10. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 3 Teilnehmer (6 Plätze frei)<br>
+Anja, Fr. 16.10. von 16:30 bis 20:30, Eckelsheim, 6 Teilnehmer (2 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/gi9LtvLXAfE">Copterflug - Ein Film entsteht - Beller Kirche, Eckelsheim</a><br>
+
+Marco, Fr. 16.10. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/VJLMz88CjNX">Konzert Cello und Orgel</a><br>
 
 MichaeL, Sa. 17.10. von 11:45 bis 19:00, 67577 Alsheim, 12 Teilnehmer (aktuell ausgebucht)<br>
@@ -40,10 +31,10 @@ MichaeL, Sa. 17.10. von 11:45 bis 19:00, 67577 Alsheim, 12 Teilnehmer (aktuell a
 Marco, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JGKTY58DD8a">Friedhofsführung Mainzer Hauptfriedhof</a><br>
 
-Anja, So. 08.11. von 11:30 bis 15:00, 55291 Saulheim, 7 Teilnehmer (5 Plätze frei)<br>
+Anja, So. 08.11. von 11:30 bis 15:00, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/RfUisvp1D71">🎒🥾 Hiwweltour Saulheimer Hölle</a><br>
 
-Marco, Fr. 20.11. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
+Marco, Fr. 20.11. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 3 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/VYJ83v4gRzn">Konzert Gitarrenduo und Orgel</a><br>
 
 Dieter, Di. 24.11. von 18:30 bis 23:00, 55127 Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
@@ -55,6 +46,12 @@ Chris, Sa. 28.11. von 15:30 bis 23:30, Frankfurt am Main, 13 Teilnehmer (2 Plät
 Marco, Sa. 05.12. von 16:00 bis 20:00, 65375 Oestrich-Winkel, 2 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/CLZxafx4rrv">Weihnachtsmarkt auf Schloss Vollrads</a><br>
 
+Anja, Fr. 18.12. von 18:30 bis 20:30, 55232 Alzey, 3 Teilnehmer (2 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/konzerte/appointments/igp45ivNg79">♀️ Weihnachtskonzert - Benefizkonzert, Alzey</a><br>
+
 Anja, So. 20.12. von 12:00 bis 15:30, Wöllstein, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/YRYHNHM5uaG">🎒🥾🎄 Waldweihnachtsbaum & Wandern</a><br>
+
+Anja, Fr. 22.01.2027 von 19:00 bis 22:00, 55578 Gau-Weinheim, 15 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/ARXEU2tRxy8">🎒🥾 🔴 Vollmondwanderung Turmwinzerweg, Gau-Weinheim</a><br>
 
