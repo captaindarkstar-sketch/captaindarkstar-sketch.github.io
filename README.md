@@ -1,43 +1,10 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Sveta, Mi. 30.09.2026 von 19:00 bis 20:00, 55252 Wiesbaden, 5 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/fitness/appointments/K49HJYeML3X">🌳Outdoor Drum-Fitness💪auf der Rheinwiese in Mainz-Kastel☀️</a><br>
-
-Kai, Mi. 30.09.2026 von 23:29 bis 23:59, Stromberg, 2 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/radsport/appointments/cbYdQViQqxR">Flowtrail Stromberg 🚵‍♀️🚵‍♂️</a><br>
-
-Stefan, Do. 01.10.2026 von 18:00 bis 21:00, 55286 Wörrstadt, 7 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/UxCE2KUvU2D">Feierabendwanderung "Weinbergstürme in Ensheim und Spiesheim"</a><br>
-
-MichaeL, So. 04.10. von 10:00 bis 19:00, 55294 Bodenheim, 15 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/UTZkrwhv1Ab">Zwibbelkuchewandertag in der VB Bodenheim</a><br>
-
-Stefan, Di. 06.10. von 18:00 bis 21:00, 65451 Kelsterbach, 2 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/CjSMkatVtix">🌅 Feierabendwanderung am Frankfurter Flughafen</a><br>
-
-Micha, Di. 06.10. von 18:00 bis 22:30, Wiesbaden, 11 Teilnehmer (3 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/1MpUQT3c2Gp">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o6.1o.o26</a><br>
-
-Anja, So. 11.10. von 10:30 bis 15:00, 55237 Flonheim, 13 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DMqu6NYXn2b">🎒🥾 Hiwweltour Aulheimer Tal</a><br>
-
-Anja, Fr. 16.10. von 16:30 bis 20:30, Eckelsheim, 7 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/gi9LtvLXAfE">Copterflug - Ein Film entsteht - Beller Kirche, Eckelsheim</a><br>
-
-Marco, Fr. 16.10. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 2 Teilnehmer (7 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/VJLMz88CjNX">Konzert Cello und Orgel</a><br>
-
-MichaeL, Sa. 17.10. von 11:45 bis 19:00, 67577 Alsheim, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XJJSgZevypf">Hiwweltour Alsheimer Hohlwege</a><br>
-
-Marco, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 11 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/JGKTY58DD8a">Friedhofsführung Mainzer Hauptfriedhof</a><br>
-
 Anja, So. 08.11. von 11:30 bis 15:00, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/RfUisvp1D71">🎒🥾 Hiwweltour Saulheimer Hölle</a><br>
 
-Marco, Fr. 20.11. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 3 Teilnehmer (6 Plätze frei)<br>
+Marco, Fr. 20.11. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 4 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/VYJ83v4gRzn">Konzert Gitarrenduo und Orgel</a><br>
 
 Dieter, Di. 24.11. von 18:30 bis 23:00, 55127 Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
@@ -46,7 +13,7 @@ Dieter, Di. 24.11. von 18:30 bis 23:00, 55127 Mainz, 5 Teilnehmer (aktuell ausge
 Chris, Sa. 28.11. von 15:30 bis 23:30, Frankfurt am Main, 13 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/GRPgzwPSYQq">"HELLS BELLS" Weihnachtsmarkt und Schiffsrundfahrt mal anders</a><br>
 
-Marco, Sa. 05.12. von 16:00 bis 20:00, 65375 Oestrich-Winkel, 2 Teilnehmer (7 Plätze frei)<br>
+Marco, Sa. 05.12. von 16:00 bis 20:00, 65375 Oestrich-Winkel, 3 Teilnehmer (6 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/CLZxafx4rrv">Weihnachtsmarkt auf Schloss Vollrads</a><br>
 
 Anja, Fr. 18.12. von 18:30 bis 20:30, 55232 Alzey, 3 Teilnehmer (1 Platz frei)<br>
