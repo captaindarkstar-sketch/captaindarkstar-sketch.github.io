@@ -7,16 +7,13 @@ Anja, So. 11.10. von 10:30 bis 15:00, 55237 Flonheim, 12 Teilnehmer (aktuell aus
 Anja, Fr. 16.10. von 16:30 bis 20:30, Eckelsheim, 7 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/gi9LtvLXAfE">Copterflug - Ein Film entsteht - Beller Kirche, Eckelsheim</a><br>
 
-Marco, Fr. 16.10. von 19:30 bis 21:00, 55218 Ingelheim am Rhein, 3 Teilnehmer (6 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/VJLMz88CjNX">Konzert Cello und Orgel</a><br>
-
 MichaeL, Sa. 17.10. von 11:45 bis 19:00, 67577 Alsheim, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XJJSgZevypf">Hiwweltour Alsheimer Hohlwege</a><br>
 
 Anja, Mo. 19.10. von 18:15 bis 20:00, Hackenheim, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/8Uvks2FwFYk">👥️ ⚪️ Boule spielen, Hackenheim</a><br>
 
-Katarina, Fr. 23.10. von 18:00 bis 22:00, 55116 Mainz, 12 Teilnehmer (aktuell ausgebucht)<br>
+Katarina, Fr. 23.10. von 18:00 bis 22:00, 55116 Mainz, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bsNqrT6pArW">Herbstfest am Schillerplatz</a><br>
 
 Caroline, Sa. 31.10. von 10:30 bis 17:00, Kirchheimbolanden, 11 Teilnehmer (aktuell ausgebucht)<br>
