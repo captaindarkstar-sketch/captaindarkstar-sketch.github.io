@@ -1,8 +1,11 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Anja, So. 11.10.2026 von 10:30 bis 15:00, 55237 Flonheim, 12 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/DMqu6NYXn2b">🎒🥾 Hiwweltour Aulheimer Tal</a><br>
+Stefan, Di. 13.10.2026 von 18:00 bis 21:00, 55291 Saulheim, 5 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/5aiRkxC7KyC">🌄 Feierabendwanderung Saulheimer Hölle</a><br>
+
+Stefan, Do. 15.10. von 18:00 bis 21:00, 65428 Rüsselsheim am Main, 10 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/MycFe5HJ5fY">Feierabendwanderung – Gemeinsam die Horlache entdecken! 🍂</a><br>
 
 Anja, Fr. 16.10. von 16:30 bis 20:30, Eckelsheim, 7 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/gi9LtvLXAfE">Copterflug - Ein Film entsteht - Beller Kirche, Eckelsheim</a><br>
@@ -10,16 +13,22 @@ Anja, Fr. 16.10. von 16:30 bis 20:30, Eckelsheim, 7 Teilnehmer (aktuell ausgebuc
 MichaeL, Sa. 17.10. von 11:45 bis 19:00, 67577 Alsheim, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/XJJSgZevypf">Hiwweltour Alsheimer Hohlwege</a><br>
 
-Anja, Mo. 19.10. von 18:15 bis 20:00, Hackenheim, 6 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Mo. 19.10. von 17:30 bis 19:30, Hackenheim, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/8Uvks2FwFYk">👥️ ⚪️ Boule spielen, Hackenheim</a><br>
+
+Micha, Di. 20.10. von 18:00 bis 22:30, Wiesbaden, 16 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/Lb2dGHjMmfd">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 2o.1o.o26</a><br>
 
 Katarina, Fr. 23.10. von 18:00 bis 22:00, 55116 Mainz, 13 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/bsNqrT6pArW">Herbstfest am Schillerplatz</a><br>
 
+Lisa, Sa. 24.10. von 13:00 bis 18:30, Bretzenheim, 1 Teilnehmer (11 Plätze frei)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/jAHrHKQyfJx">Geführte Single-Wanderung Bretzenheim (Nahe) Felseneremitage</a><br>
+
 Caroline, Sa. 31.10. von 10:30 bis 17:00, Kirchheimbolanden, 11 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/S1graBQrwb6">🍂 Herbstwanderung am Schillerhain - Wartturm, Drosselfels & Schwarzfelsen 🍁</a><br>
 
-Ehemaliges Mitglied, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 9 Teilnehmer <br>
+andreas, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 17 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JGKTY58DD8a">Friedhofsführung Mainzer Hauptfriedhof</a><br>
 
 Anja, So. 08.11. von 11:30 bis 15:00, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
