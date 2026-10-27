@@ -4,10 +4,10 @@
 Caroline, Sa. 31.10. von 10:30 bis 17:00, Kirchheimbolanden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/S1graBQrwb6">🍂 Herbstwanderung am Schillerhain - Wartturm, Drosselfels & Schwarzfelsen 🍁</a><br>
 
-Andreas, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 14 Teilnehmer (aktuell ausgebucht)<br>
+Andreas, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JGKTY58DD8a">Friedhofsführung Mainzer Hauptfriedhof</a><br>
 
-Micha, Di. 03.11. von 18:00 bis 22:30, Wiesbaden, 13 Teilnehmer (2 Plätze frei)<br>
+Micha, Di. 03.11. von 18:00 bis 22:30, Wiesbaden, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/PLiFZPzzK38">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o3.Nov.o26</a><br>
 
 Anja, So. 08.11. von 11:30 bis 15:00, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
