@@ -4,11 +4,14 @@
 Caroline, Sa. 31.10. von 10:30 bis 17:00, Kirchheimbolanden, 12 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/S1graBQrwb6">🍂 Herbstwanderung am Schillerhain - Wartturm, Drosselfels & Schwarzfelsen 🍁</a><br>
 
-Andreas, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 15 Teilnehmer (aktuell ausgebucht)<br>
+Andreas, So. 01.11. von 13:30 bis 15:30, 55131 Mainz, 14 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/JGKTY58DD8a">Friedhofsführung Mainzer Hauptfriedhof</a><br>
 
 Micha, Di. 03.11. von 18:00 bis 22:30, Wiesbaden, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/PLiFZPzzK38">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. o3.Nov.o26</a><br>
+
+Kateryna, So. 08.11. von 10:00 bis 16:00, 65399 Kiedrich, 10 Teilnehmer (aktuell ausgebucht)<br>
+<a href="https://community.spontacts.com/community/friendseek/appointments/KQJdgEj7bih">Wandern Rheinsteig 3. Etape von Kiedrich nach Johannisberg</a><br>
 
 Anja, So. 08.11. von 11:30 bis 15:00, 55291 Saulheim, 15 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/wandern-bergsteigen/appointments/RfUisvp1D71">🎒🥾 Hiwweltour Saulheimer Hölle</a><br>
@@ -25,7 +28,7 @@ Anja, Sa. 28.11. von 13:15 bis 15:00, Hackenheim, 6 Teilnehmer (aktuell ausgebuc
 Chris, Sa. 28.11. von 15:30 bis 23:30, Frankfurt am Main, 13 Teilnehmer (2 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/GRPgzwPSYQq">"HELLS BELLS" Weihnachtsmarkt und Schiffsrundfahrt mal anders</a><br>
 
-Caroline, Sa. 28.11. von 16:00 bis 21:00, Bad Kreuznach, 7 Teilnehmer (aktuell ausgebucht)<br>
+Caroline, Sa. 28.11. von 16:00 bis 21:00, Bad Kreuznach, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/XFD18sh5hac">🎄 Romantischer Weihnachtsmarkt Bad Münster am Stein-Ebernburg 🎄</a><br>
 
 Anja, Fr. 18.12. von 18:30 bis 20:30, 55232 Alzey, 3 Teilnehmer (aktuell ausgebucht)<br>
