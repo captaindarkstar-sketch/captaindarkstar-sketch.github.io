@@ -1,25 +1,22 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Micha, Di. 17.11.2026 von 17:45 bis 22:30, Wiesbaden, 11 Teilnehmer (aktuell ausgebucht)<br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/ZnJ5iLn4xoV">Kleine Feierabend Wanderung mit Weinstand-Ende am Di. 17.Nov.o26</a><br>
-
 Nadine, Mi. 18.11.2026 von 17:30 bis 20:00, 55543 Bad Kreuznach, 1 Teilnehmer (3 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/essen-trinken/appointments/bCvF7Cot6C6">Afterwork Wine & Dine Weingut Dr. Gänz</a><br>
 
-Stefan, Fr. 20.11. von 13:00 bis 18:00, 55291 Saulheim, 2 Teilnehmer <br>
+Stefan, Fr. 20.11. von 13:00 bis 18:00, 55291 Saulheim, 3 Teilnehmer <br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/ewTqmXcwxGi">Wanderung - Pertelturm / Saulheim -</a><br>
 
 Anja, Sa. 21.11. von 18:30 bis 21:00, Bad Kreuznach, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/2onxW3T75z5">Burger essen vorm HOUSE OF SOUND, Bad Kreuznach</a><br>
 
-Anja, Sa. 21.11. von 21:00 bis 23:30, Bad Kreuznach, 7 Teilnehmer (8 Plätze frei)<br>
+Anja, Sa. 21.11. von 21:00 bis 23:30, Bad Kreuznach, 8 Teilnehmer (7 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/F7hUszW9bJP">HOUSE OF SOUND, Bad Kreuznach</a><br>
 
 Dieter, Di. 24.11. von 18:30 bis 23:00, 55127 Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/b8JwuhPtw8g">Grönland -Ruf der Stille</a><br>
 
-Inge, Sa. 28.11. von 11:30 bis 18:00, 55237 Flonheim, 1 Teilnehmer (5 Plätze frei)<br>
+Inge, Sa. 28.11. von 10:30 bis 17:00, 55237 Flonheim, 1 Teilnehmer (5 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/V7W8oSiF1HE">Hiwweltour Aulheimer Tal, 13,3 km</a><br>
 
 Anja, Sa. 28.11. von 13:15 bis 15:00, Hackenheim, 5 Teilnehmer (1 Platz frei)<br>
