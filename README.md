@@ -1,17 +1,14 @@
 <style>.warn-mobil {display: none;}@media (max-width: 900px) {.warn-mobil {display: block; color: red; font-weight: bold; font-size: 0.8em;}}</style># Zukünftige Aktivitäten
 <span class="warn-mobil">Hinweis für Handys: Die Links unten führen direkt zur Aktivität. Von dort hierher zurück mit Handy-Back-Taste. Nicht Spontacts-Back oben links nutzen!</span>Nachfolgend sind alle anstehenden Aktivitäten chronologisch aufgelistet:
 
-Nadine, Mi. 18.11.2026 von 17:30 bis 20:00, 55543 Bad Kreuznach, 1 Teilnehmer (3 Plätze frei)<br>
-<a href="https://community.spontacts.com/community/essen-trinken/appointments/bCvF7Cot6C6">Afterwork Wine & Dine Weingut Dr. Gänz</a><br>
-
-Stefan, Fr. 20.11. von 13:00 bis 18:00, 55291 Saulheim, 3 Teilnehmer <br>
-<a href="https://community.spontacts.com/community/friendseek/appointments/ewTqmXcwxGi">Wanderung - Pertelturm / Saulheim -</a><br>
-
-Anja, Sa. 21.11. von 18:30 bis 21:00, Bad Kreuznach, 6 Teilnehmer (aktuell ausgebucht)<br>
+Anja, Sa. 21.11.2026 von 18:30 bis 21:00, Bad Kreuznach, 6 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/2onxW3T75z5">Burger essen vorm HOUSE OF SOUND, Bad Kreuznach</a><br>
 
-Anja, Sa. 21.11. von 21:00 bis 23:30, Bad Kreuznach, 8 Teilnehmer (7 Plätze frei)<br>
+Anja, Sa. 21.11.2026 von 21:00 bis 23:30, Bad Kreuznach, 7 Teilnehmer (8 Plätze frei)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/F7hUszW9bJP">HOUSE OF SOUND, Bad Kreuznach</a><br>
+
+Kai, So. 22.11.2026 von 15:00 bis 16:30, 55413 Trechtingshausen, 1 Teilnehmer <br>
+<a href="https://community.spontacts.com/community/schwimmen-tauchen/appointments/HBHPFG46qUB">Eisbaden 🏊‍♀️😱 🏊‍♂️ am Trechtingshausener Strand</a><br>
 
 Dieter, Di. 24.11. von 18:30 bis 23:00, 55127 Mainz, 5 Teilnehmer (aktuell ausgebucht)<br>
 <a href="https://community.spontacts.com/community/friendseek/appointments/b8JwuhPtw8g">Grönland -Ruf der Stille</a><br>
